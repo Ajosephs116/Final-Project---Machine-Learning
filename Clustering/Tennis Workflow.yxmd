@@ -1,0 +1,2179 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.4">
+  <Nodes>
+    <Node ToolID="77">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="53.99998" y="53.99999" width="1656" height="453" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Mens</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="2">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="79.00001" y="133.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>AusOpen-men-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="Player2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="Round" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="FNL1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="FNL2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST1.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-men-2013.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="4">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="79" y="194" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>FrenchOpen-men-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="Player2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="Round" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="FNL.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="FNL.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST1.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-men-2013.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="6">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="79.00002" y="253.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>1258</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>USOpen-men-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="Player2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="Round" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="FNL1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="FNL2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST1.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-men-2013.csv" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="8">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="78.99998" y="325.9998" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File>C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv</File>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Wimbledon-men-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="Player2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="Round" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="FNL.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="FNL.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST1.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-men-2013.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="10">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="331" y="266.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="11">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="523" y="278.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player1" selected="True" rename="Player 1" />
+                <SelectField field="Player2" selected="True" rename="Player 2" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="FNL1" selected="True" rename="Final Number of Games Won P1" />
+                <SelectField field="FNL2" selected="True" rename="Final Number of Games Won P2" />
+                <SelectField field="FSP.1" selected="False" />
+                <SelectField field="FSW.1" selected="False" />
+                <SelectField field="SSP.1" selected="False" />
+                <SelectField field="SSW.1" selected="False" />
+                <SelectField field="ACE.1" selected="True" rename="Aces Won P1" />
+                <SelectField field="DBF.1" selected="True" rename="Double Faults P1" />
+                <SelectField field="WNR.1" selected="True" rename="Winners (points) P1" />
+                <SelectField field="UFE.1" selected="True" rename="Unforced Errors P1" />
+                <SelectField field="BPC.1" selected="False" />
+                <SelectField field="BPW.1" selected="False" />
+                <SelectField field="NPA.1" selected="False" />
+                <SelectField field="NPW.1" selected="False" />
+                <SelectField field="TPW.1" selected="False" />
+                <SelectField field="ST1.1" selected="False" />
+                <SelectField field="ST2.1" selected="False" />
+                <SelectField field="ST3.1" selected="False" />
+                <SelectField field="ST4.1" selected="False" />
+                <SelectField field="ST5.1" selected="False" />
+                <SelectField field="FSP.2" selected="False" />
+                <SelectField field="FSW.2" selected="False" />
+                <SelectField field="SSP.2" selected="False" />
+                <SelectField field="SSW.2" selected="False" />
+                <SelectField field="ACE.2" selected="True" rename="Aces Won P2" />
+                <SelectField field="DBF.2" selected="True" rename="Double Faults P2" />
+                <SelectField field="WNR.2" selected="True" rename="Winners (points) P2" />
+                <SelectField field="UFE.2" selected="True" rename="Unforced Errors Player 2" />
+                <SelectField field="BPC.2" selected="False" />
+                <SelectField field="BPW.2" selected="False" />
+                <SelectField field="NPA.2" selected="False" />
+                <SelectField field="NPW.2" selected="False" />
+                <SelectField field="TPW.2" selected="False" />
+                <SelectField field="ST1.2" selected="False" />
+                <SelectField field="ST2.2" selected="False" />
+                <SelectField field="ST3.2" selected="False" />
+                <SelectField field="ST4.2" selected="False" />
+                <SelectField field="ST5.2" selected="False" />
+                <SelectField field="FNL.1" selected="True" rename="Final Games Won" />
+                <SelectField field="FNL.2" selected="True" rename="Final Games Won Player 2" />
+                <SelectField field="Player 1" selected="False" />
+                <SelectField field="Player 2" selected="False" />
+                <SelectField field="ST2.1_2" selected="False" />
+                <SelectField field="ST1.1_2" selected="False" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="12">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="175" y="134.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Australia Open&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Plexicushion Prestige&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Male&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Tournament = "Australia Open"
+Court Composition = "Plexicushion Prestige"
+Gender...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="14">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="175" y="194.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;French Open&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Clay&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Male&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Tournament = "French Open"
+Court Composition = "Clay"
+Gender = "Male"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="16">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="175.0001" y="254.0004" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;US Open&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Decoturf&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Male&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Tournament = "US Open"
+Court Composition = "Decoturf"
+Gender = "Male"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="18">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="175" y="326.0002" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Wimbledon&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Grass&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Male&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Tournament = "Wimbledon"
+Court Composition = "Grass"
+Gender = "Male"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="22">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="619" y="278.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="25">
+          <GuiSettings>
+            <Position x="427.0001" y="266" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="List Box (11)">""</Value>
+              <Value name="Check Box (84)">True</Value>
+              <Value name="Check Box (117)">True</Value>
+              <Value name="Check Box (15)">True</Value>
+              <Value name="Check Box (109)">False</Value>
+              <Value name="Check Box (122)">False</Value>
+              <Value name="Check Box (53)">False</Value>
+              <Value name="Check Box (58)">False</Value>
+              <Value name="Check Box (70)">False</Value>
+              <Value name="Check Box (77)">False</Value>
+              <Value name="Drop Down (81)">upper</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Cleanse.yxmc" />
+        </Node>
+        <Node ToolID="23">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="702" y="170.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\JOSEPH~1\AppData\Local\Temp\Engine_29996_ce1f53126a814205b776d9a5b6c9b7df_\Engine_8240_88622c14b26f4204a20fe25fe7cf75b6_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="40">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="787" y="374" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>!IsEmpty([Play Style])</Expression>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>IsNotEmpty</Operator>
+                <Field>Play Style</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2019-07-30 09:55:07</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>
+                  </Operand>
+                  <StartDate>2019-07-30 09:55:07</StartDate>
+                  <EndDate>2019-07-30 09:55:07</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>!IsEmpty([Play Style])</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="43">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+            <Position x="931" y="278" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FieldFind>Player</FieldFind>
+              <FieldSearch>Name</FieldSearch>
+              <ReplaceFoundField>Play Style</ReplaceFoundField>
+              <FindMode>FindAny</FindMode>
+              <NoCase value="False" />
+              <MatchWholeWord value="False" />
+              <ReplaceMode>Append</ReplaceMode>
+              <ReplaceMultipleFound value="True" />
+              <ReplaceAppendFields>
+                <Field field="Play Style" />
+              </ReplaceAppendFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+        </Node>
+        <Node ToolID="46">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="739" y="254" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player 1" selected="True" rename="Player" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="Final Number of Games Won P1" selected="True" rename="Final Number of Games Won" />
+                <SelectField field="Aces Won P1" selected="True" rename="Aces Won" />
+                <SelectField field="Double Faults P1" selected="True" rename="Double Faults" />
+                <SelectField field="Winners (points) P1" selected="True" rename="WInners (Points)" />
+                <SelectField field="Unforced Errors P1" selected="True" rename="Unforced Errors" />
+                <SelectField field="Final Games Won" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="47">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="739" y="314" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player 2" selected="True" rename="Player" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="Final Number of Games Won P2" selected="True" rename="Final Number of Games Won" />
+                <SelectField field="Aces Won P2" selected="True" rename="Aces Won" />
+                <SelectField field="Double Faults P2" selected="True" rename="Double Faults" />
+                <SelectField field="Winners (points) P2" selected="True" rename="Winners (Points)" />
+                <SelectField field="Unforced Errors Player 2" selected="True" rename="Unforced Errors" />
+                <SelectField field="Final Games Won Player 2" selected="True" rename="Final Games Won" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="48">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="823" y="278" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="50">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1015" y="278" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>!IsEmpty([Play Style])</Expression>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>IsNotEmpty</Operator>
+                <Field>Play Style</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2019-07-30 10:13:35</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>
+                  </Operand>
+                  <StartDate>2019-07-30 10:13:35</StartDate>
+                  <EndDate>2019-07-30 10:13:35</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>!IsEmpty([Play Style])</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="51">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1111" y="266" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player" selected="True" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="Final Number of Games Won" selected="True" type="Double" size="8" />
+                <SelectField field="Aces Won" selected="True" type="Double" size="8" />
+                <SelectField field="Double Faults" selected="True" type="Double" size="8" />
+                <SelectField field="Winners (Points)" selected="True" type="Double" size="8" />
+                <SelectField field="Unforced Errors" selected="True" type="Double" size="8" />
+                <SelectField field="Play Style" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="52">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1207" y="266" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Winners (Points)] / [Unforced Errors]" field="Winners/UFE Ratio" size="8" type="Double" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Winners/UFE Ratio = [Winners (Points)] / [Unforced Errors]
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="53">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="1279" y="266" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="0">
+                <Field field="Winners/UFE Ratio" order="Descending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Winners/UFE Ratio - Descending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="54">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="1363" y="266" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Player" action="GroupBy" rename="Player" />
+                <SummarizeField field="Play Style" action="GroupBy" rename="Play Style" />
+                <SummarizeField field="Winners/UFE Ratio" action="GroupBy" rename="Winners/UFE Ratio" />
+                <SummarizeField field="Final Number of Games Won" action="GroupBy" rename="Final Number of Games Won" />
+                <SummarizeField field="Aces Won" action="GroupBy" rename="Aces Won" />
+                <SummarizeField field="Double Faults" action="GroupBy" rename="Double Faults" />
+                <SummarizeField field="Unforced Errors" action="GroupBy" rename="Unforced Errors" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="55">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1459" y="266" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\JOSEPH~1\AppData\Local\Temp\Engine_29996_ce1f53126a814205b776d9a5b6c9b7df_\Engine_8240_45eb6061b9e74bf79ea9322e7e8e0267_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="56">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1434" y="386" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\JOSEPH~1\AppData\Local\Temp\Engine_29996_ce1f53126a814205b776d9a5b6c9b7df_\Engine_8240_e41c5c96c2a14014bd70bcf57e8eaed9_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="57">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1075" y="386" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player" selected="True" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="Final Number of Games Won" selected="True" type="Double" size="8" />
+                <SelectField field="Aces Won" selected="True" type="Double" size="8" />
+                <SelectField field="Double Faults" selected="True" type="Double" size="8" />
+                <SelectField field="Winners (Points)" selected="True" type="Double" size="8" />
+                <SelectField field="Unforced Errors" selected="True" type="Double" size="8" />
+                <SelectField field="Play Style" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="58">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="690" y="374" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`</File>
+              <FormatSpecificOptions>
+                <FirstRowData>False</FirstRowData>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Tennis Playstyles.xlsx
+Table=`Sheet1$`</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Name" size="255" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="Points" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="Play Style" size="255" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F4" size="255" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F5" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="F6" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="F7" size="255" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F8" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="F9" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="F10" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="F11" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="F12" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="F13" size="255" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="F14" size="255" source="File: C:\Users\josephson andrew\Documents\Machine Learning Project\Tennis Playstyles.xlsx|||`Sheet1$`" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="60">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="1278" y="386" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Player" action="GroupBy" rename="Player" />
+                <SummarizeField field="Play Style" action="GroupBy" rename="Play Style" />
+                <SummarizeField field="Final Number of Games Won" action="GroupBy" rename="Final Number of Games Won" />
+                <SummarizeField field="Aces Won" action="GroupBy" rename="Aces Won" />
+                <SummarizeField field="Double Faults" action="GroupBy" rename="Double Faults" />
+                <SummarizeField field="Unforced Errors" action="GroupBy" rename="Unforced Errors" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="61">
+          <GuiSettings Plugin="JupyterCode">
+            <Position x="1554" y="186" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Notebook><![CDATA[{"cells":[{"cell_type":"markdown","metadata":{"ayx":{"cell_class":"text_cell","cell_css":"border: 3px solid #357; margin: 4px; background: #fbffff","cell_type":"markdown","contents_keyword":"Alteryx.help()","first_line":"Run `Alteryx.help()` for info about useful functions.","label":"info"}},"source":"Run `Alteryx.help()` for info about useful functions.  \ni.e., `Alteryx.read(\"#1\")`, `Alteryx.write(df,1)`, `Alteryx.getWorkflowConstant(\"Engine.WorkflowDirectory\")`"},{"cell_type":"code","execution_count":null,"metadata":{"trusted":false},"outputs":[],"source":""},{"cell_type":"code","execution_count":1,"metadata":{"ayx":{"cell_class":"code_cell","cell_css":"border: 1px solid #58a; margin: 2px;","cell_type":"code","contents_keyword":"installPackages","first_line":"# List all non-standard packages to be imported by your","label":"deps"},"trusted":false},"outputs":[{"name":"stdout","output_type":"stream","text":"SUCCESS: reading input data \"#1\"\n"},{"data":{"text/plain":"<Figure size 640x480 with 1 Axes>"},"metadata":{},"output_type":"display_data"}],"source":"# List all non-standard packages to be imported by your \n# script here (only missing packages will be installed)\nfrom ayx import Package\nfrom ayx import Alteryx\n\n\n#importing the libraries\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\n#importing the Iris dataset with pandas\ndataset = Alteryx.read(\"#1\")\nx = dataset.iloc[:, [1, 2, 3, 4]].values\n\ndataset=pd.DataFrame(dataset)\n\ndf_new = dataset[['Winners/UFE Ratio', 'Final Number of Games Won', 'Aces Won', 'Double Faults', 'Unforced Errors']].dropna()\n\nfrom sklearn.cluster import KMeans\nwcss = []\n\nfor i in range(1, 11):\n    kmeans = KMeans(n_clusters = i, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)\n    kmeans.fit(df_new)\n    wcss.append(kmeans.inertia_)\n    \n#Plotting the results onto a line graph, allowing us to observe 'The elbow'\nplt.plot(range(1, 11), wcss)\nplt.title('The elbow method')\nplt.xlabel('Number of clusters')\nplt.ylabel('WCSS') #within cluster sum of squares\nplt.show()"},{"cell_type":"code","execution_count":2,"metadata":{"trusted":false},"outputs":[{"name":"stderr","output_type":"stream","text":"c:\\program files\\alteryx\\bin\\miniconda3\\pythontool_venv\\lib\\site-packages\\pandas\\core\\generic.py:2130: UserWarning: The spaces in these column names will not be changed. In pandas versions < 0.14, spaces were converted to underscores.\n  dtype=dtype)\n"},{"name":"stdout","output_type":"stream","text":"SUCCESS: writing outgoing connection data 2\n"},{"data":{"text/html":"<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>Player</th>\n      <th>Play Style</th>\n      <th>Winners/UFE Ratio</th>\n      <th>Final Number of Games Won</th>\n      <th>Aces Won</th>\n      <th>Double Faults</th>\n      <th>Unforced Errors</th>\n      <th>Cluster</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Benoit Paire</td>\n      <td>Offensive Baseliner</td>\n      <td>NaN</td>\n      <td>2.0</td>\n      <td>29.0</td>\n      <td>11.0</td>\n      <td>NaN</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>Benoit Paire</td>\n      <td>Offensive Baseliner</td>\n      <td>0.525424</td>\n      <td>0.0</td>\n      <td>13.0</td>\n      <td>3.0</td>\n      <td>59.0</td>\n      <td>2.0</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Benoit Paire</td>\n      <td>Offensive Baseliner</td>\n      <td>0.562500</td>\n      <td>NaN</td>\n      <td>6.0</td>\n      <td>9.0</td>\n      <td>64.0</td>\n      <td>2.0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Benoit Paire</td>\n      <td>Offensive Baseliner</td>\n      <td>0.847826</td>\n      <td>NaN</td>\n      <td>6.0</td>\n      <td>2.0</td>\n      <td>46.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>Benoit Paire</td>\n      <td>Offensive Baseliner</td>\n      <td>1.542857</td>\n      <td>NaN</td>\n      <td>9.0</td>\n      <td>3.0</td>\n      <td>35.0</td>\n      <td>3.0</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>Benoit Paire</td>\n      <td>Offensive Baseliner</td>\n      <td>1.733333</td>\n      <td>3.0</td>\n      <td>32.0</td>\n      <td>5.0</td>\n      <td>45.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>Benoit Paire</td>\n      <td>Offensive Baseliner</td>\n      <td>2.320000</td>\n      <td>3.0</td>\n      <td>24.0</td>\n      <td>6.0</td>\n      <td>25.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>7</th>\n      <td>David Goffin</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>7.0</td>\n      <td>8.0</td>\n      <td>NaN</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>8</th>\n      <td>David Goffin</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.842105</td>\n      <td>NaN</td>\n      <td>7.0</td>\n      <td>2.0</td>\n      <td>38.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>9</th>\n      <td>Dominic Thiem</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.333333</td>\n      <td>0.0</td>\n      <td>10.0</td>\n      <td>3.0</td>\n      <td>21.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>10</th>\n      <td>Dominic Thiem</td>\n      <td>Aggressive Baseliner</td>\n      <td>6.666667</td>\n      <td>3.0</td>\n      <td>20.0</td>\n      <td>3.0</td>\n      <td>3.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>11</th>\n      <td>Dusan Lajovic</td>\n      <td>Baseliner</td>\n      <td>0.346939</td>\n      <td>0.0</td>\n      <td>7.0</td>\n      <td>3.0</td>\n      <td>49.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>12</th>\n      <td>Dusan Lajovic</td>\n      <td>Baseliner</td>\n      <td>0.491228</td>\n      <td>3.0</td>\n      <td>7.0</td>\n      <td>7.0</td>\n      <td>57.0</td>\n      <td>2.0</td>\n    </tr>\n    <tr>\n      <th>13</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>3.0</td>\n      <td>7.0</td>\n      <td>NaN</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>14</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.454545</td>\n      <td>0.0</td>\n      <td>3.0</td>\n      <td>7.0</td>\n      <td>44.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>15</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.677419</td>\n      <td>2.0</td>\n      <td>3.0</td>\n      <td>4.0</td>\n      <td>31.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>16</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.796610</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>2.0</td>\n      <td>59.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>17</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.850000</td>\n      <td>3.0</td>\n      <td>9.0</td>\n      <td>12.0</td>\n      <td>60.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>18</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.944444</td>\n      <td>NaN</td>\n      <td>7.0</td>\n      <td>4.0</td>\n      <td>36.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>19</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.653846</td>\n      <td>3.0</td>\n      <td>9.0</td>\n      <td>3.0</td>\n      <td>26.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>20</th>\n      <td>Fabio Fognini</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.772727</td>\n      <td>NaN</td>\n      <td>10.0</td>\n      <td>5.0</td>\n      <td>22.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>21</th>\n      <td>Fernando Verdasco</td>\n      <td>Offensive Baseliner</td>\n      <td>NaN</td>\n      <td>2.0</td>\n      <td>5.0</td>\n      <td>14.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>22</th>\n      <td>Fernando Verdasco</td>\n      <td>Offensive Baseliner</td>\n      <td>0.788732</td>\n      <td>2.0</td>\n      <td>12.0</td>\n      <td>18.0</td>\n      <td>71.0</td>\n      <td>2.0</td>\n    </tr>\n    <tr>\n      <th>23</th>\n      <td>Fernando Verdasco</td>\n      <td>Offensive Baseliner</td>\n      <td>0.831461</td>\n      <td>NaN</td>\n      <td>10.0</td>\n      <td>9.0</td>\n      <td>89.0</td>\n      <td>2.0</td>\n    </tr>\n    <tr>\n      <th>24</th>\n      <td>Fernando Verdasco</td>\n      <td>Offensive Baseliner</td>\n      <td>1.100000</td>\n      <td>3.0</td>\n      <td>20.0</td>\n      <td>6.0</td>\n      <td>40.0</td>\n      <td>2.0</td>\n    </tr>\n    <tr>\n      <th>25</th>\n      <td>Fernando Verdasco</td>\n      <td>Offensive Baseliner</td>\n      <td>1.136364</td>\n      <td>NaN</td>\n      <td>4.0</td>\n      <td>5.0</td>\n      <td>22.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>26</th>\n      <td>Gael Monfils</td>\n      <td>Defensive Baseliner</td>\n      <td>NaN</td>\n      <td>1.0</td>\n      <td>7.0</td>\n      <td>3.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>27</th>\n      <td>Gael Monfils</td>\n      <td>Defensive Baseliner</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>5.0</td>\n      <td>1.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>28</th>\n      <td>Gael Monfils</td>\n      <td>Defensive Baseliner</td>\n      <td>0.578947</td>\n      <td>0.0</td>\n      <td>10.0</td>\n      <td>5.0</td>\n      <td>57.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>29</th>\n      <td>Gael Monfils</td>\n      <td>Defensive Baseliner</td>\n      <td>0.878788</td>\n      <td>NaN</td>\n      <td>8.0</td>\n      <td>4.0</td>\n      <td>33.0</td>\n      <td>3.0</td>\n    </tr>\n    <tr>\n      <th>...</th>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n    </tr>\n    <tr>\n      <th>121</th>\n      <td>Roger Federer</td>\n      <td>All Court</td>\n      <td>1.736842</td>\n      <td>NaN</td>\n      <td>10.0</td>\n      <td>0.0</td>\n      <td>19.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>122</th>\n      <td>Roger Federer</td>\n      <td>All Court</td>\n      <td>1.764706</td>\n      <td>3.0</td>\n      <td>11.0</td>\n      <td>5.0</td>\n      <td>17.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>123</th>\n      <td>Roger Federer</td>\n      <td>All Court</td>\n      <td>1.809524</td>\n      <td>NaN</td>\n      <td>7.0</td>\n      <td>0.0</td>\n      <td>21.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>124</th>\n      <td>Roger Federer</td>\n      <td>All Court</td>\n      <td>1.944444</td>\n      <td>3.0</td>\n      <td>6.0</td>\n      <td>1.0</td>\n      <td>18.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>125</th>\n      <td>Roger Federer</td>\n      <td>All Court</td>\n      <td>2.047619</td>\n      <td>3.0</td>\n      <td>7.0</td>\n      <td>1.0</td>\n      <td>21.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>126</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>NaN</td>\n      <td>1.0</td>\n      <td>25.0</td>\n      <td>7.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>127</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>24.0</td>\n      <td>4.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>128</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>0.658537</td>\n      <td>0.0</td>\n      <td>10.0</td>\n      <td>1.0</td>\n      <td>41.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>129</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>1.044444</td>\n      <td>3.0</td>\n      <td>24.0</td>\n      <td>4.0</td>\n      <td>45.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>130</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>1.135135</td>\n      <td>NaN</td>\n      <td>10.0</td>\n      <td>1.0</td>\n      <td>37.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>131</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>1.220000</td>\n      <td>NaN</td>\n      <td>9.0</td>\n      <td>7.0</td>\n      <td>50.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>132</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>1.392857</td>\n      <td>NaN</td>\n      <td>8.0</td>\n      <td>6.0</td>\n      <td>28.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>133</th>\n      <td>Sam Querrey</td>\n      <td>Serve and Volleyer</td>\n      <td>1.428571</td>\n      <td>3.0</td>\n      <td>19.0</td>\n      <td>4.0</td>\n      <td>21.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>134</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>2.0</td>\n      <td>8.0</td>\n      <td>7.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>135</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>4.0</td>\n      <td>4.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>136</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>7.0</td>\n      <td>2.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>137</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>9.0</td>\n      <td>5.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>138</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>11.0</td>\n      <td>5.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>139</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>14.0</td>\n      <td>6.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>140</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.575000</td>\n      <td>NaN</td>\n      <td>3.0</td>\n      <td>4.0</td>\n      <td>40.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>141</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>0.850000</td>\n      <td>3.0</td>\n      <td>17.0</td>\n      <td>5.0</td>\n      <td>60.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>142</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.081633</td>\n      <td>3.0</td>\n      <td>19.0</td>\n      <td>2.0</td>\n      <td>49.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>143</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.100000</td>\n      <td>NaN</td>\n      <td>9.0</td>\n      <td>3.0</td>\n      <td>50.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>144</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.163265</td>\n      <td>3.0</td>\n      <td>18.0</td>\n      <td>4.0</td>\n      <td>49.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>145</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.326087</td>\n      <td>3.0</td>\n      <td>9.0</td>\n      <td>4.0</td>\n      <td>46.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>146</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.515152</td>\n      <td>NaN</td>\n      <td>19.0</td>\n      <td>6.0</td>\n      <td>33.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>147</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.540541</td>\n      <td>3.0</td>\n      <td>14.0</td>\n      <td>3.0</td>\n      <td>37.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>148</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.655172</td>\n      <td>NaN</td>\n      <td>9.0</td>\n      <td>2.0</td>\n      <td>29.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>149</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>1.672727</td>\n      <td>NaN</td>\n      <td>13.0</td>\n      <td>6.0</td>\n      <td>55.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>150</th>\n      <td>Stanislas Wawrinka</td>\n      <td>Aggressive Baseliner</td>\n      <td>2.090909</td>\n      <td>2.0</td>\n      <td>4.0</td>\n      <td>1.0</td>\n      <td>11.0</td>\n      <td>NaN</td>\n    </tr>\n  </tbody>\n</table>\n<p>151 rows Ã 8 columns</p>\n</div>","text/plain":"                 Player            Play Style  Winners/UFE Ratio  \\\n0          Benoit Paire   Offensive Baseliner                NaN   \n1          Benoit Paire   Offensive Baseliner           0.525424   \n2          Benoit Paire   Offensive Baseliner           0.562500   \n3          Benoit Paire   Offensive Baseliner           0.847826   \n4          Benoit Paire   Offensive Baseliner           1.542857   \n5          Benoit Paire   Offensive Baseliner           1.733333   \n6          Benoit Paire   Offensive Baseliner           2.320000   \n7          David Goffin  Aggressive Baseliner                NaN   \n8          David Goffin  Aggressive Baseliner           0.842105   \n9         Dominic Thiem  Aggressive Baseliner           1.333333   \n10        Dominic Thiem  Aggressive Baseliner           6.666667   \n11        Dusan Lajovic             Baseliner           0.346939   \n12        Dusan Lajovic             Baseliner           0.491228   \n13        Fabio Fognini  Aggressive Baseliner                NaN   \n14        Fabio Fognini  Aggressive Baseliner           0.454545   \n15        Fabio Fognini  Aggressive Baseliner           0.677419   \n16        Fabio Fognini  Aggressive Baseliner           0.796610   \n17        Fabio Fognini  Aggressive Baseliner           0.850000   \n18        Fabio Fognini  Aggressive Baseliner           0.944444   \n19        Fabio Fognini  Aggressive Baseliner           1.653846   \n20        Fabio Fognini  Aggressive Baseliner           1.772727   \n21    Fernando Verdasco   Offensive Baseliner                NaN   \n22    Fernando Verdasco   Offensive Baseliner           0.788732   \n23    Fernando Verdasco   Offensive Baseliner           0.831461   \n24    Fernando Verdasco   Offensive Baseliner           1.100000   \n25    Fernando Verdasco   Offensive Baseliner           1.136364   \n26         Gael Monfils   Defensive Baseliner                NaN   \n27         Gael Monfils   Defensive Baseliner                NaN   \n28         Gael Monfils   Defensive Baseliner           0.578947   \n29         Gael Monfils   Defensive Baseliner           0.878788   \n..                  ...                   ...                ...   \n121       Roger Federer             All Court           1.736842   \n122       Roger Federer             All Court           1.764706   \n123       Roger Federer             All Court           1.809524   \n124       Roger Federer             All Court           1.944444   \n125       Roger Federer             All Court           2.047619   \n126         Sam Querrey    Serve and Volleyer                NaN   \n127         Sam Querrey    Serve and Volleyer                NaN   \n128         Sam Querrey    Serve and Volleyer           0.658537   \n129         Sam Querrey    Serve and Volleyer           1.044444   \n130         Sam Querrey    Serve and Volleyer           1.135135   \n131         Sam Querrey    Serve and Volleyer           1.220000   \n132         Sam Querrey    Serve and Volleyer           1.392857   \n133         Sam Querrey    Serve and Volleyer           1.428571   \n134  Stanislas Wawrinka  Aggressive Baseliner                NaN   \n135  Stanislas Wawrinka  Aggressive Baseliner                NaN   \n136  Stanislas Wawrinka  Aggressive Baseliner                NaN   \n137  Stanislas Wawrinka  Aggressive Baseliner                NaN   \n138  Stanislas Wawrinka  Aggressive Baseliner                NaN   \n139  Stanislas Wawrinka  Aggressive Baseliner                NaN   \n140  Stanislas Wawrinka  Aggressive Baseliner           0.575000   \n141  Stanislas Wawrinka  Aggressive Baseliner           0.850000   \n142  Stanislas Wawrinka  Aggressive Baseliner           1.081633   \n143  Stanislas Wawrinka  Aggressive Baseliner           1.100000   \n144  Stanislas Wawrinka  Aggressive Baseliner           1.163265   \n145  Stanislas Wawrinka  Aggressive Baseliner           1.326087   \n146  Stanislas Wawrinka  Aggressive Baseliner           1.515152   \n147  Stanislas Wawrinka  Aggressive Baseliner           1.540541   \n148  Stanislas Wawrinka  Aggressive Baseliner           1.655172   \n149  Stanislas Wawrinka  Aggressive Baseliner           1.672727   \n150  Stanislas Wawrinka  Aggressive Baseliner           2.090909   \n\n     Final Number of Games Won  Aces Won  Double Faults  Unforced Errors  \\\n0                          2.0      29.0           11.0              NaN   \n1                          0.0      13.0            3.0             59.0   \n2                          NaN       6.0            9.0             64.0   \n3                          NaN       6.0            2.0             46.0   \n4                          NaN       9.0            3.0             35.0   \n5                          3.0      32.0            5.0             45.0   \n6                          3.0      24.0            6.0             25.0   \n7                          0.0       7.0            8.0              NaN   \n8                          NaN       7.0            2.0             38.0   \n9                          0.0      10.0            3.0             21.0   \n10                         3.0      20.0            3.0              3.0   \n11                         0.0       7.0            3.0             49.0   \n12                         3.0       7.0            7.0             57.0   \n13                         0.0       3.0            7.0              NaN   \n14                         0.0       3.0            7.0             44.0   \n15                         2.0       3.0            4.0             31.0   \n16                         NaN       3.0            2.0             59.0   \n17                         3.0       9.0           12.0             60.0   \n18                         NaN       7.0            4.0             36.0   \n19                         3.0       9.0            3.0             26.0   \n20                         NaN      10.0            5.0             22.0   \n21                         2.0       5.0           14.0              NaN   \n22                         2.0      12.0           18.0             71.0   \n23                         NaN      10.0            9.0             89.0   \n24                         3.0      20.0            6.0             40.0   \n25                         NaN       4.0            5.0             22.0   \n26                         1.0       7.0            3.0              NaN   \n27                         3.0       5.0            1.0              NaN   \n28                         0.0      10.0            5.0             57.0   \n29                         NaN       8.0            4.0             33.0   \n..                         ...       ...            ...              ...   \n121                        NaN      10.0            0.0             19.0   \n122                        3.0      11.0            5.0             17.0   \n123                        NaN       7.0            0.0             21.0   \n124                        3.0       6.0            1.0             18.0   \n125                        3.0       7.0            1.0             21.0   \n126                        1.0      25.0            7.0              NaN   \n127                        3.0      24.0            4.0              NaN   \n128                        0.0      10.0            1.0             41.0   \n129                        3.0      24.0            4.0             45.0   \n130                        NaN      10.0            1.0             37.0   \n131                        NaN       9.0            7.0             50.0   \n132                        NaN       8.0            6.0             28.0   \n133                        3.0      19.0            4.0             21.0   \n134                        2.0       8.0            7.0              NaN   \n135                        3.0       4.0            4.0              NaN   \n136                        3.0       7.0            2.0              NaN   \n137                        3.0       9.0            5.0              NaN   \n138                        3.0      11.0            5.0              NaN   \n139                        3.0      14.0            6.0              NaN   \n140                        NaN       3.0            4.0             40.0   \n141                        3.0      17.0            5.0             60.0   \n142                        3.0      19.0            2.0             49.0   \n143                        NaN       9.0            3.0             50.0   \n144                        3.0      18.0            4.0             49.0   \n145                        3.0       9.0            4.0             46.0   \n146                        NaN      19.0            6.0             33.0   \n147                        3.0      14.0            3.0             37.0   \n148                        NaN       9.0            2.0             29.0   \n149                        NaN      13.0            6.0             55.0   \n150                        2.0       4.0            1.0             11.0   \n\n     Cluster  \n0        1.0  \n1        2.0  \n2        2.0  \n3        0.0  \n4        3.0  \n5        1.0  \n6        1.0  \n7        1.0  \n8        0.0  \n9        1.0  \n10       0.0  \n11       1.0  \n12       2.0  \n13       1.0  \n14       0.0  \n15       0.0  \n16       1.0  \n17       0.0  \n18       1.0  \n19       1.0  \n20       0.0  \n21       0.0  \n22       2.0  \n23       2.0  \n24       2.0  \n25       1.0  \n26       0.0  \n27       0.0  \n28       0.0  \n29       3.0  \n..       ...  \n121      NaN  \n122      NaN  \n123      NaN  \n124      NaN  \n125      NaN  \n126      NaN  \n127      NaN  \n128      NaN  \n129      NaN  \n130      NaN  \n131      NaN  \n132      NaN  \n133      NaN  \n134      NaN  \n135      NaN  \n136      NaN  \n137      NaN  \n138      NaN  \n139      NaN  \n140      NaN  \n141      NaN  \n142      NaN  \n143      NaN  \n144      NaN  \n145      NaN  \n146      NaN  \n147      NaN  \n148      NaN  \n149      NaN  \n150      NaN  \n\n[151 rows x 8 columns]"},"execution_count":2,"metadata":{},"output_type":"execute_result"}],"source":"from ayx import Alteryx\nfrom sklearn.cluster import KMeans\n#importing the libraries\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\nkmeans = KMeans(n_clusters = 4, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)\nkm = kmeans.fit(df_new)\ny = km.labels_\n\ndataset['Cluster']=pd.Series(y)\n\nAlteryx.write(dataset,2)"},{"cell_type":"code","execution_count":null,"metadata":{"trusted":false},"outputs":[],"source":"     "}],"metadata":{"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.6.0"}},"nbformat":4,"nbformat_minor":2}]]></Notebook>
+              <Port>55952</Port>
+              <WorkflowName>c:\users\josephson andrew\documents\machine learning project\tennis workflow.yxmd</WorkflowName>
+              <specialCellMetadata>[{"label":"info","contents_keyword":"Alteryx.help()","cell_css":"border: 3px solid #357; margin: 4px; background: #fbffff","first_line":"Run `Alteryx.help()` for info about useful functions.","cell_type":"markdown","cell_class":"text_cell"},{"label":"deps","contents_keyword":"installPackages","cell_css":"border: 1px solid #58a; margin: 2px;","first_line":"# List all non-standard packages to be imported by your","cell_type":"code","cell_class":"code_cell"}]</specialCellMetadata>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output2">
+              <RecordInfo>
+                <Field name="Player" size="1073741823" source="J-DATA:" type="V_WString" />
+                <Field name="Play Style" size="1073741823" source="J-DATA:" type="V_WString" />
+                <Field name="Winners/UFE Ratio" source="J-DATA:" type="Double" />
+                <Field name="Final Number of Games Won" source="J-DATA:" type="Double" />
+                <Field name="Aces Won" source="J-DATA:" type="Double" />
+                <Field name="Double Faults" source="J-DATA:" type="Double" />
+                <Field name="Unforced Errors" source="J-DATA:" type="Double" />
+                <Field name="Cluster" source="J-DATA:" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxJupyterPluginEngine.dll" EngineDllEntryPoint="AlteryxJupyter" />
+        </Node>
+        <Node ToolID="62">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="810" y="97.99999" width="100" height="40" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Combined Tournament CSVs</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor r="255" g="128" b="128" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="63">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="666.0001" y="446" width="96" height="36" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Manual Playstyle CSV</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor r="255" g="128" b="128" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="64">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="1567" y="266" width="96" height="36" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Top Players w/ Playstyles</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor r="255" g="128" b="128" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="65">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="1567" y="398" width="96" height="36" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>All Players, need playstyles</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor r="255" g="128" b="128" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="81">
+          <GuiSettings Plugin="LockInGui.LockInStreamIn.LockInStreamIn">
+            <Position x="1626" y="174" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Connection />
+              <CreateMode>TempTable</CreateMode>
+              <Table />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Temporary Table</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="LockInEngine.dll" EngineDllEntryPoint="AlteryxLockInStreamIn" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="54.99998" y="578.0001" width="116.3649" height="19" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Womens</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="76">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="427.0001" y="710" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player1" selected="True" rename="Player 1" />
+                <SelectField field="Player2" selected="True" rename="Player 2" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="FNL1" selected="True" rename="Final Number of Games Won P1" />
+                <SelectField field="FNL2" selected="True" rename="Final Number of Games Won P2" />
+                <SelectField field="FSP.1" selected="False" />
+                <SelectField field="FSW.1" selected="False" />
+                <SelectField field="SSP.1" selected="False" />
+                <SelectField field="SSW.1" selected="False" />
+                <SelectField field="ACE.1" selected="True" rename="Aces Won P1" />
+                <SelectField field="DBF.1" selected="True" rename="Double Faults P1" />
+                <SelectField field="WNR.1" selected="True" rename="Winners (points) P1" />
+                <SelectField field="UFE.1" selected="True" rename="Unforced Errors P1" />
+                <SelectField field="BPC.1" selected="False" />
+                <SelectField field="BPW.1" selected="False" />
+                <SelectField field="NPA.1" selected="False" />
+                <SelectField field="NPW.1" selected="False" />
+                <SelectField field="TPW.1" selected="False" />
+                <SelectField field="ST1.1" selected="False" />
+                <SelectField field="ST2.1" selected="False" />
+                <SelectField field="ST3.1" selected="False" />
+                <SelectField field="ST4.1" selected="False" />
+                <SelectField field="ST5.1" selected="False" />
+                <SelectField field="FSP.2" selected="False" />
+                <SelectField field="FSW.2" selected="False" />
+                <SelectField field="SSP.2" selected="False" />
+                <SelectField field="SSW.2" selected="False" />
+                <SelectField field="ACE.2" selected="True" rename="Aces Won P2" />
+                <SelectField field="DBF.2" selected="True" rename="Double Faults P2" />
+                <SelectField field="WNR.2" selected="True" rename="Winners (points) P2" />
+                <SelectField field="UFE.2" selected="True" rename="Unforced Errors Player 2" />
+                <SelectField field="BPC.2" selected="False" />
+                <SelectField field="BPW.2" selected="False" />
+                <SelectField field="NPA.2" selected="False" />
+                <SelectField field="NPW.2" selected="False" />
+                <SelectField field="TPW.2" selected="False" />
+                <SelectField field="ST1.2" selected="False" />
+                <SelectField field="ST2.2" selected="False" />
+                <SelectField field="ST3.2" selected="False" />
+                <SelectField field="ST4.2" selected="False" />
+                <SelectField field="ST5.2" selected="False" />
+                <SelectField field="FNL.1" selected="True" rename="Final Games Won" />
+                <SelectField field="FNL.2" selected="True" rename="Final Games Won Player 2" />
+                <SelectField field="Player 1" selected="False" />
+                <SelectField field="Player 2" selected="False" />
+                <SelectField field="ST2.1_2" selected="False" />
+                <SelectField field="ST1.1_2" selected="False" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="75">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1148" y="697.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\JOSEPH~1\AppData\Local\Temp\Engine_21456_a275c5b6c36d45d39656d5d200c7a30a_\Engine_22080_c15bfbdf05a14954b439cc99838c5ee2_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="74">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="1052" y="697.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Player" action="GroupBy" rename="Player" />
+                <SummarizeField field="Winners/UFE Ratio" action="GroupBy" rename="Winners/UFE Ratio" />
+                <SummarizeField field="Final Number of Games Won" action="GroupBy" rename="Final Number of Games Won" />
+                <SummarizeField field="Aces Won" action="GroupBy" rename="Aces Won" />
+                <SummarizeField field="Double Faults" action="GroupBy" rename="Double Faults" />
+                <SummarizeField field="Unforced Errors" action="GroupBy" rename="Unforced Errors" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="73">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="968" y="697.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="0">
+                <Field field="Winners/UFE Ratio" order="Descending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Winners/UFE Ratio - Descending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="72">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="896" y="697.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Winners (Points)] / [Unforced Errors]" field="Winners/UFE Ratio" size="8" type="Double" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Winners/UFE Ratio = [Winners (Points)] / [Unforced Errors]
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="71">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="800" y="697.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player" selected="True" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="Final Number of Games Won" selected="True" type="Double" size="8" />
+                <SelectField field="Aces Won" selected="True" type="Double" size="8" />
+                <SelectField field="Double Faults" selected="True" type="Double" size="8" />
+                <SelectField field="Winners (Points)" selected="True" type="Double" size="8" />
+                <SelectField field="Unforced Errors" selected="True" type="Double" size="8" />
+                <SelectField field="Play Style" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="69">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="703" y="698" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="68">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="584" y="745.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="Player 2" selected="True" rename="Player" />
+                <SelectField field="Final Number of Games Won P2" selected="True" rename="Final Number of Games Won" />
+                <SelectField field="Aces Won P2" selected="True" rename="Aces Won" />
+                <SelectField field="Double Faults P2" selected="True" rename="Double Faults" />
+                <SelectField field="Winners (points) P2" selected="True" rename="Winners (Points)" />
+                <SelectField field="Unforced Errors Player 2" selected="True" rename="Unforced Errors" />
+                <SelectField field="Final Games Won Player 2" selected="True" rename="Final Games Won" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="67">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="584" y="673.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Player 1" selected="True" rename="Player" />
+                <SelectField field="Round" selected="True" />
+                <SelectField field="Tournament" selected="True" />
+                <SelectField field="Court Composition" selected="True" />
+                <SelectField field="Gender" selected="True" />
+                <SelectField field="Result" selected="True" />
+                <SelectField field="Final Number of Games Won P1" selected="True" rename="Final Number of Games Won" />
+                <SelectField field="Aces Won P1" selected="True" rename="Aces Won" />
+                <SelectField field="Double Faults P1" selected="True" rename="Double Faults" />
+                <SelectField field="Winners (points) P1" selected="True" rename="WInners (Points)" />
+                <SelectField field="Unforced Errors P1" selected="True" rename="Unforced Errors" />
+                <SelectField field="Final Games Won" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="26">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="356.0001" y="705.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="29">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="499" y="709.9999" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="37">
+          <GuiSettings>
+            <Position x="164.0001" y="778.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="List Box (11)">"Player1","Player2","Round","Result","FNL.1","FNL.2","FSP.1","FSW.1","SSP.1","SSW.1","ACE.1","DBF.1","WNR.1","UFE.1","BPC.1","BPW.1","NPA.1","NPW.1","TPW.1","ST1.1","ST2.1","ST3.1","ST4.1","ST5.1","FSP.2","FSW.2","SSP.2","SSW.2","ACE.2","DBF.2","WNR.2","UFE.2","BPC.2","BPW.2","NPA.2","NPW.2","TPW.2","ST1.1_2","ST2.2","ST3.2","ST4.2","ST5.2"</Value>
+              <Value name="Check Box (84)">True</Value>
+              <Value name="Check Box (117)">True</Value>
+              <Value name="Check Box (15)">True</Value>
+              <Value name="Check Box (109)">True</Value>
+              <Value name="Check Box (122)">True</Value>
+              <Value name="Check Box (53)">True</Value>
+              <Value name="Check Box (58)">True</Value>
+              <Value name="Check Box (70)">True</Value>
+              <Value name="Check Box (77)">False</Value>
+              <Value name="Drop Down (81)">upper</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Cleanse.yxmc" />
+        </Node>
+        <Node ToolID="36">
+          <GuiSettings>
+            <Position x="164" y="730.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="List Box (11)">"Player 1","Player 2","ROUND","Result","FNL.1","FNL.2","FSP.1","FSW.1","SSP.1","SSW.1","ACE.1","DBF.1","WNR.1","UFE.1","BPC.1","BPW.1","NPA.1","NPW.1","TPW.1","ST1.1","ST2.1","ST3.1","ST4.1","ST5.1","FSP.2","FSW.2","SSP.2","SSW.2","ACE.2","DBF.2","WNR.2","UFE.2","BPC.2","BPW.2","NPA.2","NPW.2","TPW.2","ST2.1_2","ST2.2","ST3.2","ST4.2","ST5.2"</Value>
+              <Value name="Check Box (84)">True</Value>
+              <Value name="Check Box (117)">True</Value>
+              <Value name="Check Box (15)">True</Value>
+              <Value name="Check Box (109)">True</Value>
+              <Value name="Check Box (122)">True</Value>
+              <Value name="Check Box (53)">True</Value>
+              <Value name="Check Box (58)">True</Value>
+              <Value name="Check Box (70)">True</Value>
+              <Value name="Check Box (77)">False</Value>
+              <Value name="Drop Down (81)">upper</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Cleanse.yxmc" />
+        </Node>
+        <Node ToolID="35">
+          <GuiSettings>
+            <Position x="164.0001" y="682.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="List Box (11)">"Player1","Player2","Round","Result","FNL.1","FNL.2","FSP.1","FSW.1","SSP.1","SSW.1","ACE.1","DBF.1","WNR.1","UFE.1","BPC.1","BPW.1","NPA.1","NPW.1","TPW.1","ST1.1","ST2.1","ST3.1","ST4.1","ST5.1","FSP.2","FSW.2","SSP.2","SSW.2","ACE.2","DBF.2","WNR.2","UFE.2","BPC.2","BPW.2","NPA.2","NPW.2","TPW.2","ST1.2","ST2.2","ST3.2","ST4.2","ST5.2"</Value>
+              <Value name="Check Box (84)">True</Value>
+              <Value name="Check Box (117)">True</Value>
+              <Value name="Check Box (15)">True</Value>
+              <Value name="Check Box (109)">True</Value>
+              <Value name="Check Box (122)">True</Value>
+              <Value name="Check Box (53)">True</Value>
+              <Value name="Check Box (58)">True</Value>
+              <Value name="Check Box (70)">True</Value>
+              <Value name="Check Box (77)">False</Value>
+              <Value name="Drop Down (81)">upper</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Cleanse.yxmc" />
+        </Node>
+        <Node ToolID="34">
+          <GuiSettings>
+            <Position x="164.0001" y="622.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="List Box (11)">"Player1","Player2","Round","Result","FNL1","FNL2","FSP.1","FSW.1","SSP.1","SSW.1","ACE.1","DBF.1","WNR.1","UFE.1","BPC.1","BPW.1","NPA.1","NPW.1","TPW.1","ST1.1","ST2.1","ST3.1","ST4.1","ST5.1","FSP.2","FSW.2","SSP.2","SSW.2","ACE.2","DBF.2","WNR.2","UFE.2","BPC.2","BPW.2","NPA.2","NPW.2","TPW.2","ST1.2","ST2.2","ST3.2","ST4.2","ST5.2"</Value>
+              <Value name="Check Box (84)">True</Value>
+              <Value name="Check Box (117)">True</Value>
+              <Value name="Check Box (15)">True</Value>
+              <Value name="Check Box (109)">False</Value>
+              <Value name="Check Box (122)">False</Value>
+              <Value name="Check Box (53)">False</Value>
+              <Value name="Check Box (58)">False</Value>
+              <Value name="Check Box (70)">False</Value>
+              <Value name="Check Box (77)">False</Value>
+              <Value name="Drop Down (81)">upper</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Cleanse.yxmc" />
+        </Node>
+        <Node ToolID="19">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="236" y="778.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Wimbledon&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Grass&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Female&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Tournament = "Wimbledon"
+Court Composition = "Grass"
+Gender = "Female"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="17">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="236.0001" y="730" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;US Open&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Decoturf&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Female&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Tournament = "US Open"
+Court Composition = "Decoturf"
+Gender = "Female"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="15">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="236" y="682.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;French Open&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Clay&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Female&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Tournament = "French Open"
+Court Composition = "Clay"
+Gender = "Female"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="13">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="236" y="622.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Australia Open&quot;" field="Tournament" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Plexicushion Prestige&quot;" field="Court Composition" size="1073741823" type="V_WString" />
+                <FormulaField expression="&quot;Female&quot;" field="Gender" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Tournament = "Australia Open"
+Court Composition = "Plexicushion Prestige"
+Gender...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="9">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="80" y="778.0002" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Wimbledon-women-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="Player2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="Round" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="FNL.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="FNL.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST1.1_2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\Wimbledon-women-2013.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="7">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="79.99997" y="730" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>USOpen-women-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player 1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="Player 2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ROUND" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="FNL.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="FNL.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST2.1_2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\USOpen-women-2013.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="5">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="80.00012" y="682.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>FrenchOpen-women-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="Player2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="Round" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="FNL.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="FNL.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST1.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\FrenchOpen-women-2013.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="80.00002" y="622.0002" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>AusOpen-women-2013.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Player1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="Player2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="Round" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="Result" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="FNL1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="FNL2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="FSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="FSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="SSP.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="SSW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ACE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="DBF.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="WNR.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="UFE.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="BPC.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="BPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="NPA.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="NPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="TPW.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST1.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST2.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST3.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST4.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST5.1" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="FSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="FSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="SSP.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="SSW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ACE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="DBF.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="WNR.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="UFE.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="BPC.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="BPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="NPA.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="NPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="TPW.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST1.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST2.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST3.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST4.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+                <Field name="ST5.2" size="254" source="File: C:\Users\josephson andrew\Documents\Tennis-Major-Tournaments-Match-Statistics\AusOpen-women-2013.csv" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="25" Connection="Input2" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection name="#7">
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output26" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="True" />
+      <Destination ToolID="43" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="43" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="57" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="46" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="50" Connection="True" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="53" Connection="Output" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="54" Connection="Output" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="54" Connection="Output" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="57" Connection="Output" />
+      <Destination ToolID="60" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output2" />
+      <Destination ToolID="81" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="76" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="75" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="73" Connection="Output" />
+      <Destination ToolID="74" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="72" Connection="Output" />
+      <Destination ToolID="73" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="71" Connection="Output" />
+      <Destination ToolID="72" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="69" Connection="Output" />
+      <Destination ToolID="71" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="68" Connection="Output" />
+      <Destination ToolID="69" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="67" Connection="Output" />
+      <Destination ToolID="69" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="76" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="68" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="67" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output26" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output26" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output26" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output26" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="37" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="36" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="35" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="34" Connection="Input2" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="False" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Tennis Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
