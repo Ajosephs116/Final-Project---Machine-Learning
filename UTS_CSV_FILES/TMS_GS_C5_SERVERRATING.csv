@@ -1,0 +1,967 @@
+name,country_name,country_id,opponent_name,opponent_country_name,opponent_country_id,date,tournament,level,bestOf,surface,indoor,speed,round,score,winner,server_rating
+Novak Djokovic,Serbia,SRB,Rafael Nadal,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,F,6-3 6-2 6-3,TRUE,448
+Milos Raonic,Canada,CAN,Reilly Opelka,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-6(1) 6-2 6-1,TRUE,444
+John Isner,United States,USA,Casper Ruud,Norway,NOR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-4 7-6(9),TRUE,441
+Alexei Popyrin,Australia,AUS,Mischa Zverev,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-5 7-6(7) 6-4,TRUE,441
+Roger Federer,Switzerland,SUI,Jay Clarke,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-1 7-6(3) 6-2,TRUE,436
+Dominic Thiem,Austria,AUT,Mirza Basic,Bosnia and Herzegovina,BIH,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-1 6-4,TRUE,434
+Alex De Minaur,Australia,AUS,Taro Daniel,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-0 6-1 6-2,TRUE,433
+Kevin Anderson,South Africa,RSA,Janko Tipsarevic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-7(5) 6-1 6-4,TRUE,433
+Rafael Nadal,Spain,ESP,Frances Tiafoe,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,QF,6-3 6-4 6-2,TRUE,433
+Roger Federer,Switzerland,SUI,Oscar Otte,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 6-3 6-4,TRUE,433
+Roger Federer,Switzerland,SUI,Matteo Berrettini,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-1 6-2 6-2,TRUE,432
+Kevin Anderson,South Africa,RSA,Pierre Hugues Herbert,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-4 6-2,TRUE,430
+Rafael Nadal,Spain,ESP,Stefanos Tsitsipas,Greece,GRE,1/14/2019,Australian Open,G,5,H,FALSE,85,SF,6-2 6-4 6-0,TRUE,430
+Milos Raonic,Canada,CAN,Prajnesh Gunneswaran,India,IND,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(1) 6-4 6-2,TRUE,429
+Sam Querrey,United States,USA,Andrey Rublev,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 6-3,TRUE,429
+John Isner,United States,USA,Dusan Lajovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-6(8) 6-7(6) 6-3 7-5,TRUE,428
+Ivo Karlovic,Croatia,CRO,Kei Nishikori,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 7-6(6) 5-7 5-7 7-6(7),FALSE,428
+Marin Cilic,Croatia,CRO,Hubert Hurkacz,Poland,POL,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 6-0 6-0,TRUE,427
+Tomas Berdych,Czech Republic,CZE,Kyle Edmund,United Kingdom,GBR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-0 7-5,TRUE,425
+Stan Wawrinka,Switzerland,SUI,Jozef Kovalik,Slovakia,SVK,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-7(3) 6-2 6-3,TRUE,425
+Juan Martin Del Potro,Argentina,ARG,John Isner,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,QF,6-7(5) 6-3 7-6(4) 6-2,TRUE,425
+Mikhail Kukushkin,Kazakhstan,KAZ,Pablo Andujar,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-2 6-4,TRUE,425
+Steve Johnson,United States,USA,Denis Istomin,Uzbekistan,UZB,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(6) 6-3,TRUE,425
+John Isner,United States,USA,Nicolas Jarry,Chile,CHI,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(7) 6-4 3-6 7-6(2) 6-4,TRUE,423
+Thomas Fabbiano,Italy,ITA,Ivo Karlovic,Croatia,CRO,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-7(6) 6-3 6-7(4) 6-4,TRUE,423
+Sam Querrey,United States,USA,Tennys Sandgren,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-4 6-7(9) 7-6(3) 7-6(5),TRUE,423
+Hugo Dellien,"Bolivia, Plurinational State of",BOL,Prajnesh Gunneswaran,India,IND,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-3 6-1,TRUE,422
+Novak Djokovic,Serbia,SRB,Jan Lennard Struff,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-3 6-2 6-2,TRUE,422
+John Isner,United States,USA,Reilly Opelka,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(4) 7-6(6) 6-7(4) 7-6(5),FALSE,421
+Stefanos Tsitsipas,Greece,GRE,Matteo Berrettini,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(3) 6-4 6-3 7-6(4),TRUE,421
+Guido Pella,Argentina,ARG,Casper Ruud,Norway,NOR,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-4 6-1,TRUE,419
+Borna Coric,Croatia,CRO,Steve Darcis,Belgium,BEL,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 6-4 6-4,TRUE,419
+Rafael Nadal,Spain,ESP,Tomas Berdych,Czech Republic,CZE,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-0 6-1 7-6(4),TRUE,418
+Rafael Nadal,Spain,ESP,Yannick Hanfmann,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 6-1 6-3,TRUE,418
+Milos Raonic,Canada,CAN,Stan Wawrinka,Switzerland,SUI,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-6(6) 6-4 6-3,TRUE,418
+Grigor Dimitrov,Bulgaria,BUL,Pablo Cuevas,Uruguay,URU,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-7(5) 6-3 7-5,TRUE,418
+Roger Federer,Switzerland,SUI,Nick Kyrgios,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 6-1 7-5,TRUE,418
+Milos Raonic,Canada,CAN,Gilles Simon,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 6-4 6-4,TRUE,417
+Novak Djokovic,Serbia,SRB,Kei Nishikori,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,SF,6-3 6-4 6-2,TRUE,417
+Novak Djokovic,Serbia,SRB,Salvatore Caruso,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 6-3 6-2,TRUE,417
+Denis Shapovalov,Canada,CAN,Taro Daniel,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 7-6(2) 6-3,TRUE,417
+Steve Johnson,United States,USA,Albert Ramos,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-2 6-3,TRUE,416
+Gilles Simon,France,FRA,Sergiy Stakhovsky,Ukraine,UKR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-3 6-4,TRUE,416
+Milos Raonic,Canada,CAN,Robin Haase,Netherlands,NED,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-6(1) 7-5 7-6(4),TRUE,416
+Robin Haase,Netherlands,NED,Jozef Kovalik,Slovakia,SVK,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-1 6-3 6-1,TRUE,415
+Daniel Evans,United Kingdom,GBR,Federico Delbonis,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-6(5) 6-3,TRUE,415
+Lucas Pouille,France,FRA,Simone Bolelli,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-4 7-5,TRUE,415
+Karen Khachanov,Russian Federation,RUS,Lorenzo Sonego,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 6-3 6-3,TRUE,414
+Jan Lennard Struff,Germany,GER,Radu Albot,"Moldova, Republic of",MDA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-3 6-2,TRUE,414
+Pablo Carreno Busta,Spain,ESP,Joao Sousa,Portugal,POR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-1 6-2,TRUE,414
+Alexei Popyrin,Australia,AUS,Dominic Thiem,Austria,AUT,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-5 6-4 2-0 RET,TRUE,413
+Stefanos Tsitsipas,Greece,GRE,Roger Federer,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(11) 7-6(3) 7-5 7-6(5),TRUE,412
+Sam Querrey,United States,USA,Dominic Thiem,Austria,AUT,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-7(4) 7-6(1) 6-3 6-0,TRUE,410
+Alex De Minaur,Australia,AUS,Bradley Klahn,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-4 6-4,TRUE,410
+Marin Cilic,Croatia,CRO,Bernard Tomic,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-2 6-4 7-6(3),TRUE,409
+Joao Sousa,Portugal,POR,Marin Cilic,Croatia,CRO,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-4 6-4,TRUE,409
+Daniel Evans,United Kingdom,GBR,Tatsuma Ito,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-5 6-1 7-6(8),TRUE,408
+Pablo Carreno Busta,Spain,ESP,Alex De Minaur,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-1 6-1,TRUE,407
+Dusan Lajovic,Serbia,SRB,Elliot Benchetrit,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-3 6-4,TRUE,407
+Christian Garin,Chile,CHI,Reilly Opelka,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(0) 7-5 7-6(7),TRUE,406
+Rafael Nadal,Spain,ESP,Matthew Ebden,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-2 6-2,TRUE,406
+Laslo Djere,Serbia,SRB,Alexei Popyrin,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 7-6(4) 6-4,TRUE,406
+Richard Gasquet,France,FRA,Yuichi Sugita,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-1 6-3,TRUE,405
+Daniil Medvedev,Russian Federation,RUS,Lloyd George Muirhead Harris,South Africa,RSA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 6-2 6-1,TRUE,405
+Jan Lennard Struff,Germany,GER,Tim Smyczek,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(2) 6-4 6-3,TRUE,405
+Elliot Benchetrit,France,FRA,Cameron Norrie,United Kingdom,GBR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-0 6-2,TRUE,405
+John Millman,Australia,AUS,Hugo Dellien,"Bolivia, Plurinational State of",BOL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-3 6-4,TRUE,404
+Ivo Karlovic,Croatia,CRO,Hubert Hurkacz,Poland,POL,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 7-6(6) 7-6(3) 7-6(5),TRUE,404
+Novak Djokovic,Serbia,SRB,Richard Gasquet,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-2 6-3 6-3,TRUE,403
+Philipp Kohlschreiber,Germany,GER,Zhe Li,China,CHN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-2 6-2 6-4,TRUE,402
+Jiri Vesely,Czech Republic,CZE,Benoit Paire,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,5-7 7-6(5) 6-3 7-6(2),FALSE,402
+Taylor Harry Fritz,United States,USA,Tomas Berdych,Czech Republic,CZE,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 6-3,TRUE,402
+Stan Wawrinka,Switzerland,SUI,Christian Garin,Chile,CHI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-4 6-0,TRUE,401
+Mikhail Kukushkin,Kazakhstan,KAZ,John Isner,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-7(3) 4-6 6-1 6-4,TRUE,401
+Hubert Hurkacz,Poland,POL,Dusan Lajovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 4-6 6-4 6-4,TRUE,401
+Borna Coric,Croatia,CRO,Aljaz Bedene,Slovenia,SLO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-7(4) 6-4 6-4,TRUE,400
+Novak Djokovic,Serbia,SRB,Hubert Hurkacz,Poland,POL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-5 6-7(5) 6-1 6-4,TRUE,399
+Reilly Opelka,United States,USA,Stan Wawrinka,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-5 3-6 4-6 6-4 8-6,TRUE,397
+Richard Gasquet,France,FRA,Laslo Djere,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 7-6(5) 6-3,TRUE,397
+Roberto Bautista Agut,Spain,ESP,Andy Murray,United Kingdom,GBR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-4 6-7(5) 6-7(4) 6-2,TRUE,397
+Hubert Hurkacz,Poland,POL,Ivo Karlovic,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 7-6(6) 7-6(3) 7-6(5),FALSE,396
+Ivo Karlovic,Croatia,CRO,Feliciano Lopez,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(4) 7-5 6-7(7) 7-5,TRUE,396
+Taylor Harry Fritz,United States,USA,Cameron Norrie,United Kingdom,GBR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 7-6(6) 6-2,TRUE,395
+Joao Sousa,Portugal,POR,Philipp Kohlschreiber,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-5 4-6 7-6(4) 5-7 6-4,TRUE,394
+Ricardas Berankis,Lithuania,LTU,Denis Shapovalov,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(0) 6-4 6-3,TRUE,393
+Filip Krajinovic,Serbia,SRB,Frances Tiafoe,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 4-6 6-3 3-6 6-0,TRUE,393
+Rafael Nadal,Spain,ESP,Alex De Minaur,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-1 6-2 6-4,TRUE,393
+Nick Kyrgios,Australia,AUS,Milos Raonic,Canada,CAN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-6(5) 6-4,FALSE,393
+Roger Federer,Switzerland,SUI,Lorenzo Sonego,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 6-4 6-4,TRUE,392
+Nicolas Jarry,Chile,CHI,John Isner,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(7) 6-4 3-6 7-6(2) 6-4,FALSE,392
+Benoit Paire,France,FRA,Marius Copil,Romania,ROU,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-7(5) 6-0 6-1,TRUE,392
+Karen Khachanov,Russian Federation,RUS,Cedrik Marcel Stebe,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-1 6-4,TRUE,392
+Roberto Bautista Agut,Spain,ESP,Peter Gojowczyk,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-2 6-3,TRUE,392
+Taylor Harry Fritz,United States,USA,Gael Monfils,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-7(8) 7-6(6) 7-6(5),TRUE,392
+Roger Federer,Switzerland,SUI,Kei Nishikori,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,4-6 6-1 6-4 6-4,TRUE,391
+Maximilian Marterer,Germany,GER,Lucas Pouille,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(8) 7-6(8) 5-7 6-4,FALSE,391
+Lucas Pouille,France,FRA,Maximilian Marterer,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(8) 7-6(8) 5-7 6-4,TRUE,391
+Guido Pella,Argentina,ARG,Paolo Lorenzi,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 6-0 6-2,TRUE,389
+Stefano Travaglia,Italy,ITA,Guido Andreozzi,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(3) 6-2 6-3 6-2,TRUE,389
+Roger Federer,Switzerland,SUI,Yoshihito Nishioka,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 6-4,TRUE,388
+Juan Ignacio Londero,Argentina,ARG,Nikoloz Basilashvili,Georgia,GEO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-1 6-3,TRUE,388
+Jo Wilfried Tsonga,France,FRA,Ricardas Berankis,Lithuania,LTU,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-6(4) 6-3 6-3,TRUE,388
+Casper Ruud,Norway,NOR,Ernests Gulbis,Latvia,LAT,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 7-6(2) 6-0,TRUE,387
+Tennys Sandgren,United States,USA,Sam Querrey,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-4 6-7(9) 7-6(3) 7-6(5),FALSE,386
+Alexander Zverev,Germany,GER,Alex Bolt,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-3 6-3 6-2,TRUE,386
+Lucas Pouille,France,FRA,Richard Gasquet,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-1 6-4 7-6(4),TRUE,386
+Dominic Thiem,Austria,AUT,Tommy Paul,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 4-6 7-6(5) 6-2,TRUE,385
+Dusan Lajovic,Serbia,SRB,Thiago Monteiro,Brazil,BRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-4 6-4,TRUE,385
+Reilly Opelka,United States,USA,Cedrik Marcel Stebe,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-6(4) 6-1,TRUE,385
+Tomas Berdych,Czech Republic,CZE,Diego Sebastian Schwartzman,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,5-7 6-3 7-5 6-4,TRUE,385
+John Isner,United States,USA,Bradley Klahn,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(3) 6-3 6-4,TRUE,385
+Nicolas Jarry,Chile,CHI,Leonardo Mayer,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(4) 7-6(3) 4-6 6-3,FALSE,385
+Salvatore Caruso,Italy,ITA,Gilles Simon,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-2 6-4,TRUE,384
+Rafael Nadal,Spain,ESP,Vasek Pospisil,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 6-4 6-2,TRUE,384
+Kei Nishikori,Japan,JPN,Ivo Karlovic,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 7-6(6) 5-7 5-7 7-6(7),TRUE,384
+Benoit Paire,France,FRA,Jiri Vesely,Czech Republic,CZE,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,5-7 7-6(5) 6-3 7-6(2),TRUE,384
+Andreas Seppi,Italy,ITA,Steve Johnson,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 4-6 6-4 6-3,TRUE,383
+Dominic Thiem,Austria,AUT,Steve Johnson,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(5) 6-3 5-7 6-4 6-1,TRUE,383
+Rafael Nadal,Spain,ESP,Juan Ignacio Londero,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-2 6-3 6-3,TRUE,383
+Thomas Fabbiano,Italy,ITA,Reilly Opelka,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-7(15) 6-2 6-4 3-6 7-6(5),TRUE,383
+Rafael Nadal,Spain,ESP,Sam Querrey,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,7-5 6-2 6-2,TRUE,383
+Ryan Harrison,United States,USA,Kevin Anderson,South Africa,RSA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 5-7 4-6 6-3 6-4,FALSE,383
+Alex De Minaur,Australia,AUS,Marco Cecchinato,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-0 6-4 7-6(5),TRUE,383
+Kevin Anderson,South Africa,RSA,Denis Shapovalov,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R32,4-6 6-3 6-4 4-6 6-4,TRUE,382
+Roger Federer,Switzerland,SUI,Daniel Evans,United Kingdom,GBR,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(5) 7-6(3) 6-3,TRUE,382
+Philipp Kohlschreiber,Germany,GER,Yannick Hanfmann,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(3) 5-7 6-4 6-4,TRUE,381
+Marin Cilic,Croatia,CRO,Adrian Mannarino,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(6) 7-6(4) 6-3,TRUE,380
+Milos Raonic,Canada,CAN,Guido Pella,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,3-6 4-6 6-3 7-6(3) 8-6,FALSE,380
+Roger Federer,Switzerland,SUI,Rafael Nadal,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,SF,7-6(3) 1-6 6-3 6-4,TRUE,379
+Steve Darcis,Belgium,BEL,Mischa Zverev,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-4 6-4,TRUE,379
+Dusan Lajovic,Serbia,SRB,John Isner,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-6(8) 6-7(6) 6-3 7-5,FALSE,379
+Diego Sebastian Schwartzman,Argentina,ARG,Rudolf Molleker,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 6-3 4-6 6-0,TRUE,379
+Jiri Vesely,Czech Republic,CZE,Alexander Zverev,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 6-3 6-2 7-5,TRUE,378
+Roger Federer,Switzerland,SUI,Lucas Pouille,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-5 6-2 7-6(4),TRUE,378
+Diego Sebastian Schwartzman,Argentina,ARG,Matteo Berrettini,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-7(5) 7-6(2) 4-6 7-6(5) 6-3,FALSE,378
+Denis Shapovalov,Canada,CAN,Pablo Andujar,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-2 6-3 7-6(3),TRUE,378
+Taylor Harry Fritz,United States,USA,Bernard Tomic,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-4 6-1,TRUE,377
+Reilly Opelka,United States,USA,Christian Garin,Chile,CHI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(0) 7-5 7-6(7),FALSE,377
+Matteo Berrettini,Italy,ITA,Diego Sebastian Schwartzman,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-7(5) 7-6(2) 4-6 7-6(5) 6-3,TRUE,377
+Roger Federer,Switzerland,SUI,Stefanos Tsitsipas,Greece,GRE,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(11) 7-6(3) 7-5 7-6(5),FALSE,377
+Kevin Anderson,South Africa,RSA,Ryan Harrison,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 5-7 4-6 6-3 6-4,TRUE,377
+Borna Coric,Croatia,CRO,Florian Mayer,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 5-7 6-4,TRUE,377
+Alexander Zverev,Germany,GER,Mikael Ymer,Sweden,SWE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-3 7-6(3),TRUE,377
+Reilly Opelka,United States,USA,John Isner,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(4) 7-6(6) 6-7(4) 7-6(5),TRUE,377
+Stan Wawrinka,Switzerland,SUI,Milos Raonic,Canada,CAN,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-7(4) 7-6(6) 7-6(11) 7-6(5),FALSE,377
+John Isner,United States,USA,Milos Raonic,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R16,3-6 6-3 6-4 3-6 6-2,TRUE,377
+Casper Ruud,Norway,NOR,Matteo Berrettini,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 7-5 6-3,TRUE,376
+Nicolas Jarry,Chile,CHI,Peter Gojowczyk,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 4-6 6-1 7-5,TRUE,376
+Nick Kyrgios,Australia,AUS,Rafael Nadal,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 3-6 7-6(5) 7-6(3),FALSE,376
+Rafael Nadal,Spain,ESP,Yuichi Sugita,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-1 6-3,TRUE,376
+Novak Djokovic,Serbia,SRB,Hubert Hurkacz,Poland,POL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-2 6-2,TRUE,376
+Borna Coric,Croatia,CRO,Marton Fucsovics,Hungary,HUN,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 6-3 6-4,TRUE,376
+Alexander Zverev,Germany,GER,Jeremy Chardy,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(5) 6-4 5-7 6-7(6) 6-1,TRUE,375
+Hubert Hurkacz,Poland,POL,Leonardo Mayer,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-7(4) 6-1 7-6(7) 6-3,TRUE,375
+Matteo Berrettini,Italy,ITA,Aljaz Bedene,Slovenia,SLO,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-3 6-2 7-6(3),TRUE,375
+Guido Pella,Argentina,ARG,Kevin Anderson,South Africa,RSA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 6-3 7-6(4),TRUE,375
+Philipp Kohlschreiber,Germany,GER,Joao Sousa,Portugal,POR,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-5 4-6 7-6(4) 5-7 6-4,FALSE,374
+Roger Federer,Switzerland,SUI,Casper Ruud,Norway,NOR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 6-1 7-6(8),TRUE,374
+Laslo Djere,Serbia,SRB,Albert Ramos,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-2 7-6(2),TRUE,374
+Marius Copil,Romania,ROU,Marcel Granollers,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-4 6-4,TRUE,374
+Mikhail Kukushkin,Kazakhstan,KAZ,Jan Lennard Struff,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-3 7-6(5) 4-6 7-5,TRUE,374
+Lucas Pouille,France,FRA,Borna Coric,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(4) 6-4 7-5 7-6(2),TRUE,374
+Jiri Vesely,Czech Republic,CZE,Pablo Cuevas,Uruguay,URU,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,4-6 7-6(5) 6-4 6-4,TRUE,374
+John Millman,Australia,AUS,Laslo Djere,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 6-1,TRUE,374
+Ugo Humbert,France,FRA,Felix Auger Aliassime,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 7-5 6-3,TRUE,374
+Mischa Zverev,Germany,GER,Alexei Popyrin,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-5 7-6(7) 6-4,FALSE,373
+Juan Martin Del Potro,Argentina,ARG,Nicolas Jarry,Chile,CHI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,3-6 6-2 6-1 6-4,TRUE,373
+Gilles Simon,France,FRA,Bjorn Fratangelo,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(2) 6-4 6-2,TRUE,373
+Stan Wawrinka,Switzerland,SUI,Reilly Opelka,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-5 3-6 4-6 6-4 8-6,FALSE,373
+Rafael Nadal,Spain,ESP,Kei Nishikori,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,QF,6-1 6-1 6-3,TRUE,373
+Federico Delbonis,Argentina,ARG,Guillermo Garcia Lopez,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 3-6 6-3 6-2,TRUE,373
+Gael Monfils,France,FRA,Damir Dzumhur,Bosnia and Herzegovina,BIH,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-0 6-4 6-0,TRUE,372
+Novak Djokovic,Serbia,SRB,Alexander Zverev,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,QF,7-5 6-2 6-2,TRUE,372
+Novak Djokovic,Serbia,SRB,Roberto Bautista Agut,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,SF,6-2 4-6 6-3 6-2,TRUE,372
+Denis Kudla,United States,USA,Matteo Berrettini,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 7-5 6-2,TRUE,372
+Roberto Bautista Agut,Spain,ESP,Guido Pella,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,7-5 6-4 3-6 6-3,TRUE,372
+Gael Monfils,France,FRA,Taylor Harry Fritz,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-7(8) 7-6(6) 7-6(5),FALSE,372
+Diego Sebastian Schwartzman,Argentina,ARG,Dominik Koepfer,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-0 6-3 7-5,TRUE,372
+Borna Coric,Croatia,CRO,Lloyd George Muirhead Harris,South Africa,RSA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-3 7-6(2),TRUE,371
+Jan Lennard Struff,Germany,GER,Taylor Harry Fritz,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-3 5-7 7-6(2),TRUE,371
+Marcos Baghdatis,Cyprus,CYP,Brayden Schnur,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-4 6-4,TRUE,371
+Yoshihito Nishioka,Japan,JPN,Tennys Sandgren,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-6(5) 4-6 6-4,TRUE,371
+Karen Khachanov,Russian Federation,RUS,Feliciano Lopez,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,4-6 6-4 7-5 6-4,TRUE,371
+Fernando Verdasco,Spain,ESP,Kamil Majchrzak,Poland,POL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 6-4,TRUE,371
+Maximilian Marterer,Germany,GER,Gleb Sakharov,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-1 6-3,TRUE,371
+Stan Wawrinka,Switzerland,SUI,Grigor Dimitrov,Bulgaria,BUL,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-2 7-5,TRUE,371
+Leonardo Mayer,Argentina,ARG,Nicolas Jarry,Chile,CHI,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(4) 7-6(3) 4-6 6-3,TRUE,370
+Philipp Kohlschreiber,Germany,GER,Robin Haase,Netherlands,NED,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-4 6-7(5) 6-1,TRUE,370
+Henri Laaksonen,Switzerland,SUI,Pedro Martinez Portero,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-0 7-6(4),TRUE,370
+Frances Tiafoe,United States,USA,Kevin Anderson,South Africa,RSA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,4-6 6-4 6-4 7-5,TRUE,370
+Thomas Fabbiano,Italy,ITA,Stefanos Tsitsipas,Greece,GRE,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 3-6 6-4 6-7(8) 6-3,TRUE,370
+Lucas Pouille,France,FRA,Alexei Popyrin,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,7-6(3) 6-3 6-7(10) 4-6 6-3,TRUE,370
+Cameron Norrie,United Kingdom,GBR,Denis Istomin,Uzbekistan,UZB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-4 6-4,TRUE,370
+Evgeny Donskoy,Russian Federation,RUS,Laslo Djere,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 6-4 6-1 7-6(5),TRUE,369
+Rafael Nadal,Spain,ESP,Dominic Thiem,Austria,AUT,5/26/2019,Roland Garros,G,5,C,FALSE,48,F,6-3 5-7 6-1 6-1,TRUE,369
+Salvatore Caruso,Italy,ITA,Jaume Munar,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-5 4-6 6-3 6-3,TRUE,369
+Fabio Fognini,Italy,ITA,Jaume Munar,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(3) 7-6(7) 3-1 RET,TRUE,369
+Benoit Paire,France,FRA,Pablo Carreno Busta,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-2 4-6 7-6(1) RET,TRUE,369
+Jeremy Chardy,France,FRA,Martin Klizan,Slovakia,SVK,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-0 6-3 6-4,TRUE,368
+Tennys Sandgren,United States,USA,Fabio Fognini,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-3 7-6(12) 6-3,TRUE,368
+Kyle Edmund,United Kingdom,GBR,Jaume Munar,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 6-4,TRUE,367
+Grigor Dimitrov,Bulgaria,BUL,Janko Tipsarevic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 6-3 6-1 6-4,TRUE,367
+Hyeon Chung,"Korea, Republic of",KOR,Bradley Klahn,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 6-7(5) 6-3 6-2 6-4,TRUE,367
+Ivo Karlovic,Croatia,CRO,Thomas Fabbiano,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-7(6) 6-3 6-7(4) 6-4,FALSE,367
+Frances Tiafoe,United States,USA,Andreas Seppi,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-7(3) 6-3 4-6 6-4 6-3,TRUE,367
+Guido Pella,Argentina,ARG,Milos Raonic,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,3-6 4-6 6-3 7-6(3) 8-6,TRUE,367
+Novak Djokovic,Serbia,SRB,Mitchell Krueger,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-2 6-2,TRUE,367
+Rafael Nadal,Spain,ESP,Nikoloz Basilashvili,Georgia,GEO,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-3 6-3 6-7(6) 6-4,TRUE,366
+Benoit Paire,France,FRA,Miomir Kecmanovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-6(5) 6-4 RET,TRUE,366
+Novak Djokovic,Serbia,SRB,Philipp Kohlschreiber,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-5 6-3,TRUE,366
+Fernando Verdasco,Spain,ESP,Thomas Fabbiano,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 7-6(1) 6-4,TRUE,366
+Ugo Humbert,France,FRA,Jeremy Chardy,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 7-6(6) 6-4 6-7(4) 7-6(6),FALSE,366
+Juan Ignacio Londero,Argentina,ARG,Richard Gasquet,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 3-6 6-3 6-4,TRUE,365
+Fernando Verdasco,Spain,ESP,Marin Cilic,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,4-6 3-6 6-1 7-6(8) 6-3,FALSE,365
+Fernando Verdasco,Spain,ESP,Miomir Kecmanovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(5) 6-3 6-3,TRUE,365
+Jack Sock,United States,USA,Guido Andreozzi,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-0 7-6(4) 6-2,TRUE,365
+Grigor Dimitrov,Bulgaria,BUL,Stan Wawrinka,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,7-6(5) 7-6(4) 7-6(8),FALSE,365
+Stan Wawrinka,Switzerland,SUI,Roger Federer,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,QF,7-6(4) 4-6 7-6(5) 6-4,FALSE,365
+Fernando Verdasco,Spain,ESP,Feliciano Lopez,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 7-5 6-4,TRUE,365
+Dominic Thiem,Austria,AUT,Alexander Bublik,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-7(6) 6-3 7-5,TRUE,365
+Juan Martin Del Potro,Argentina,ARG,Jordan Thompson,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-4 6-4 6-0,TRUE,364
+Leonardo Mayer,Argentina,ARG,Diego Sebastian Schwartzman,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,4-6 6-3 6-4 7-5,TRUE,364
+Robin Haase,Netherlands,NED,Milos Raonic,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-6(1) 7-5 7-6(4),FALSE,364
+Alexei Popyrin,Australia,AUS,Ugo Humbert,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,3-6 6-3 7-6(10) 6-3,TRUE,364
+Alexei Popyrin,Australia,AUS,Laslo Djere,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 7-6(4) 6-4,FALSE,364
+Roberto Bautista Agut,Spain,ESP,Benoit Paire,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-3 7-5 6-2,TRUE,364
+Roberto Bautista Agut,Spain,ESP,Marin Cilic,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(6) 6-3 6-2 4-6 6-4,TRUE,364
+Stefanos Tsitsipas,Greece,GRE,Tommy Robredo,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(1) 6-4,TRUE,364
+John Millman,Australia,AUS,Roger Federer,Switzerland,SUI,8/27/2018,US Open,G,5,H,FALSE,61,R16,3-6 7-5 7-6(7) 7-6(3),TRUE,363
+Milos Raonic,Canada,CAN,Lucas Pouille,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,QF,7-6(4) 6-3 6-7(2) 6-4,FALSE,363
+Novak Djokovic,Serbia,SRB,Tennys Sandgren,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-1 6-3 6-7(2) 6-2,TRUE,363
+Stefanos Tsitsipas,Greece,GRE,Viktor Troicki,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 2-6 6-2 7-5,TRUE,363
+Gael Monfils,France,FRA,Antonie Hoang,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 6-2 6-3,TRUE,363
+Jordan Thompson,Australia,AUS,Alejandro Davidovich Fokina,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-2 7-6(3),TRUE,363
+Felix Auger Aliassime,Canada,CAN,Corentin Moutet,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 4-6 6-4 6-2,TRUE,363
+Yannick Hanfmann,Germany,GER,Philipp Kohlschreiber,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(3) 5-7 6-4 6-4,FALSE,362
+Marcel Granollers,Spain,ESP,Lorenzo Sonego,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(4) 6-4 6-4,TRUE,362
+Janko Tipsarevic,Serbia,SRB,Yoshihito Nishioka,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-7(2) 6-2 5-7 6-2,TRUE,362
+Roberto Carballes Baena,Spain,ESP,Mitchell Krueger,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,3-6 6-2 6-4 7-6(3),TRUE,362
+Kei Nishikori,Japan,JPN,Kamil Majchrzak,Poland,POL,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 6-7(6) 6-0 6-2 3-0 RET,TRUE,362
+Alexander Zverev,Germany,GER,Fabio Fognini,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,3-6 6-2 6-2 7-6(5),TRUE,362
+Gael Monfils,France,FRA,Taro Daniel,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-4 6-1,TRUE,361
+John Isner,United States,USA,Juan Martin Del Potro,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,QF,6-7(5) 6-3 7-6(4) 6-2,FALSE,361
+Frances Tiafoe,United States,USA,Prajnesh Gunneswaran,India,IND,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(7) 6-3 6-3,TRUE,361
+Yoshihito Nishioka,Japan,JPN,Mackenzie Mcdonald,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-7(7) 6-0 4-6 6-2 6-3,TRUE,361
+Lucas Pouille,France,FRA,Mikhail Kukushkin,Kazakhstan,KAZ,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 7-5 6-4,TRUE,361
+Alex Bolt,Australia,AUS,Jack Sock,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 6-3 6-2 6-2,TRUE,361
+Novak Djokovic,Serbia,SRB,Denis Kudla,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 6-2,TRUE,361
+John Isner,United States,USA,Mikhail Kukushkin,Kazakhstan,KAZ,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-7(3) 4-6 6-1 6-4,FALSE,360
+Milos Raonic,Canada,CAN,John Isner,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R16,3-6 6-3 6-4 3-6 6-2,FALSE,360
+Lorenzo Sonego,Italy,ITA,Gilles Muller,Luxembourg,LUX,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(2) 6-7(9) 5-7 7-6(6) 6-2,TRUE,360
+Carlos Berlocq,Argentina,ARG,Milos Raonic,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 6-4 1-6 6-3,FALSE,360
+Rafael Nadal,Spain,ESP,Roger Federer,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,SF,7-6(3) 1-6 6-3 6-4,FALSE,360
+Alexander Bublik,Russian Federation,RUS,Rudolf Molleker,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-5 6-7(4) 6-1 7-6(2),TRUE,360
+David Goffin,Belgium,BEL,Jeremy Chardy,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-2 6-4 6-3,TRUE,360
+Novak Djokovic,Serbia,SRB,David Goffin,Belgium,BEL,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,6-4 6-0 6-2,TRUE,360
+Matteo Berrettini,Italy,ITA,Pablo Andujar,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-7(3) 6-4 6-4 6-2,TRUE,359
+Kevin Anderson,South Africa,RSA,Adrian Mannarino,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 5-7 6-2 6-1,TRUE,359
+Joao Sousa,Portugal,POR,Guido Pella,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(2) 4-6 7-6(5) 4-6 6-2,TRUE,359
+Grigor Dimitrov,Bulgaria,BUL,Thomas Fabbiano,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,7-6(5) 6-4 6-4,TRUE,359
+Daniil Medvedev,Russian Federation,RUS,Alexei Popyrin,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-7(6) 6-1 6-4 6-4,TRUE,359
+Denis Kudla,United States,USA,Marc Polmans,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,5-7 1-6 6-2 6-3 6-2,TRUE,359
+Fernando Verdasco,Spain,ESP,Daniel Evans,United Kingdom,GBR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-7(4) 6-3 6-2,TRUE,358
+Pablo Carreno Busta,Spain,ESP,Malek Jaziri,Tunisia,TUN,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 6-2 6-2,TRUE,358
+Jan Lennard Struff,Germany,GER,Borna Coric,Croatia,CRO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,4-6 6-1 4-6 7-6(1) 11-9,TRUE,358
+Adrian Mannarino,France,FRA,Marin Cilic,Croatia,CRO,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(6) 7-6(4) 6-3,FALSE,358
+John Millman,Australia,AUS,Jenson Brooksby,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-2 6-0,TRUE,358
+Alexei Popyrin,Australia,AUS,Lucas Pouille,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,7-6(3) 6-3 6-7(10) 4-6 6-3,FALSE,358
+Leonardo Mayer,Argentina,ARG,Ernests Gulbis,Latvia,LAT,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-1 7-6(12) 6-2,TRUE,358
+Alexander Zverev,Germany,GER,Nicolas Mahut,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 6-4 6-2,TRUE,358
+Ugo Humbert,France,FRA,Alexei Popyrin,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,3-6 6-3 7-6(10) 6-3,FALSE,358
+John Millman,Australia,AUS,Federico Delbonis,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 3-6 7-6(3) 6-2,TRUE,358
+Luca Vanni,Italy,ITA,Pablo Carreno Busta,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 2-6 6-3 7-5 6-4,FALSE,358
+Novak Djokovic,Serbia,SRB,Daniil Medvedev,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-4 6-7(5) 6-2 6-3,TRUE,357
+Karen Khachanov,Russian Federation,RUS,Juan Martin Del Potro,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,7-5 6-3 3-6 6-3,TRUE,357
+Nicolas Mahut,France,FRA,Leonardo Mayer,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,3-6 7-6(3) 6-4 7-6(3),FALSE,357
+Guido Pella,Argentina,ARG,Joao Sousa,Portugal,POR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(2) 4-6 7-6(5) 4-6 6-2,FALSE,357
+Fabio Fognini,Italy,ITA,Leonardo Mayer,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(3) 6-3 7-6(5),TRUE,357
+Kei Nishikori,Japan,JPN,Gael Monfils,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 5-4 RET,TRUE,357
+Jan Lennard Struff,Germany,GER,Mikhail Kukushkin,Kazakhstan,KAZ,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-3 7-6(5) 4-6 7-5,FALSE,356
+Fernando Verdasco,Spain,ESP,Radu Albot,"Moldova, Republic of",MDA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-1 7-6(2) 6-3,TRUE,356
+Ugo Humbert,France,FRA,Collin Altamirano,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(4) 6-3,TRUE,356
+Reilly Opelka,United States,USA,Thomas Fabbiano,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-7(15) 6-2 6-4 3-6 7-6(5),FALSE,356
+Roberto Bautista Agut,Spain,ESP,John Millman,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-1 3-6 6-7(6) 6-4,TRUE,356
+Nicolas Mahut,France,FRA,Philipp Kohlschreiber,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-3 6-3,TRUE,356
+Kei Nishikori,Japan,JPN,Joao Sousa,Portugal,POR,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,7-6(6) 6-1 6-2,TRUE,356
+Paolo Lorenzi,Italy,ITA,Daniil Medvedev,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-6(2) 7-6(2),FALSE,356
+Pablo Cuevas,Uruguay,URU,Jiri Vesely,Czech Republic,CZE,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,4-6 7-6(5) 6-4 6-4,FALSE,356
+David Goffin,Belgium,BEL,Ricardas Berankis,Lithuania,LTU,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-2 6-2,TRUE,356
+Denis Istomin,Uzbekistan,UZB,Steve Johnson,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(6) 6-3,FALSE,355
+Daniil Medvedev,Russian Federation,RUS,Stefanos Tsitsipas,Greece,GRE,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 6-3 4-6 6-3,TRUE,355
+Julien Benneteau,France,FRA,Marco Cecchinato,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,2-6 7-6(5) 6-3 6-4,TRUE,355
+Filip Krajinovic,Serbia,SRB,Evgeny Donskoy,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 7-6(8) 7-6(2),TRUE,355
+Hubert Hurkacz,Poland,POL,Stefano Travaglia,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 2-6 7-6(6) 3-0 RET,TRUE,355
+Frances Tiafoe,United States,USA,Adrian Mannarino,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-1 6-4 4-6 6-4,TRUE,355
+Roger Federer,Switzerland,SUI,Novak Djokovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,F,7-6(5) 1-6 7-6(4) 4-6 13-12(3),FALSE,355
+Frances Tiafoe,United States,USA,Grigor Dimitrov,Bulgaria,BUL,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,7-5 7-6(6) 6-7(1) 7-5,TRUE,355
+Paolo Lorenzi,Italy,ITA,Kyle Edmund,United Kingdom,GBR,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 6-4 7-5 6-1,TRUE,354
+Stan Wawrinka,Switzerland,SUI,Stefanos Tsitsipas,Greece,GRE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,7-6(6) 5-7 6-4 3-6 8-6,TRUE,354
+Daniel Evans,United Kingdom,GBR,Nikoloz Basilashvili,Georgia,GEO,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 7-6(2),TRUE,354
+Joao Sousa,Portugal,POR,Marcel Granollers,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 6-3,TRUE,354
+Dominik Koepfer,Germany,GER,Filip Krajinovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 4-6 7-6(9) 6-1,TRUE,354
+David Goffin,Belgium,BEL,Robin Haase,Netherlands,NED,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 6-7(1) 6-3 6-2,TRUE,354
+Ugo Humbert,France,FRA,Marcel Granollers,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 7-6(3) 7-5,TRUE,354
+Nicolas Mahut,France,FRA,Marco Cecchinato,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,2-6 6-7(6) 6-4 6-2 6-4,TRUE,354
+Milos Raonic,Canada,CAN,Stan Wawrinka,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-7(4) 7-6(6) 7-6(11) 7-6(5),TRUE,354
+Gilles Simon,France,FRA,Lloyd George Muirhead Harris,South Africa,RSA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 6-3,TRUE,353
+Nick Kyrgios,Australia,AUS,Pierre Hugues Herbert,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,4-6 7-6(6) 6-3 6-0,TRUE,353
+Richard Gasquet,France,FRA,Mischa Zverev,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-4 6-3,TRUE,353
+Fernando Verdasco,Spain,ESP,David Goffin,Belgium,BEL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,7-6(9) 2-6 6-3 6-4,FALSE,353
+Guido Pella,Argentina,ARG,Andreas Seppi,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 4-6 4-6 7-5 6-1,TRUE,352
+Andreas Seppi,Italy,ITA,Nicolas Jarry,Chile,CHI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-7(8) 6-1 6-2,TRUE,352
+Roger Federer,Switzerland,SUI,Stan Wawrinka,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,QF,7-6(4) 4-6 7-6(5) 6-4,TRUE,352
+Nick Kyrgios,Australia,AUS,Radu Albot,"Moldova, Republic of",MDA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 2-6 6-4 6-2,TRUE,352
+Jeremy Chardy,France,FRA,Alexander Zverev,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(5) 6-4 5-7 6-7(6) 6-1,FALSE,352
+Pablo Carreno Busta,Spain,ESP,Luca Vanni,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 2-6 6-3 7-5 6-4,TRUE,351
+Rafael Nadal,Spain,ESP,David Goffin,Belgium,BEL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-1 6-3 4-6 6-3,TRUE,351
+Kevin Anderson,South Africa,RSA,Guido Pella,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 6-3 7-6(4),FALSE,350
+Dusan Lajovic,Serbia,SRB,Hubert Hurkacz,Poland,POL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 4-6 6-4 6-4,FALSE,350
+Borna Coric,Croatia,CRO,Roberto Carballes Baena,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-6(4) 6-2 6-3,TRUE,350
+Borna Coric,Croatia,CRO,Daniil Medvedev,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-3 7-5 6-2,TRUE,350
+Fabio Fognini,Italy,ITA,Andreas Seppi,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-0 3-6 6-3,TRUE,350
+Thanasi Kokkinakis,Australia,AUS,Taro Daniel,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,5-7 4-2 RET,FALSE,350
+Philipp Kohlschreiber,Germany,GER,Alexander Zverev,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-7(1) 6-4 6-1 6-3,TRUE,349
+Andy Murray,United Kingdom,GBR,James Duckworth,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-7(5) 6-3 7-5 6-3,TRUE,349
+Oscar Otte,Germany,GER,Malek Jaziri,Tunisia,TUN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-1 4-6 6-0,TRUE,349
+Ivo Karlovic,Croatia,CRO,Jordan Thompson,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-4 6-7(2) 6-3,FALSE,349
+Roger Federer,Switzerland,SUI,Benoit Paire,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 6-4 6-4,TRUE,349
+Guido Pella,Argentina,ARG,Marius Copil,Romania,ROU,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(11) 5-7 6-3 6-4,TRUE,349
+Alex De Minaur,Australia,AUS,Steve Johnson,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,3-6 7-6(4) 6-3 3-6 6-3,FALSE,349
+Stefanos Tsitsipas,Greece,GRE,Nikoloz Basilashvili,Georgia,GEO,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-3 3-6 7-6(7) 6-4,TRUE,349
+Vasek Pospisil,Canada,CAN,Lukas Lacko,Slovakia,SVK,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 6-3 6-2,TRUE,349
+Borna Coric,Croatia,CRO,Lucas Pouille,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(4) 6-4 7-5 7-6(2),FALSE,348
+Roberto Bautista Agut,Spain,ESP,Taylor Harry Fritz,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-3 6-2,TRUE,348
+Marin Cilic,Croatia,CRO,Fernando Verdasco,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,4-6 3-6 6-1 7-6(8) 6-3,TRUE,348
+Steve Johnson,United States,USA,Alex De Minaur,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,3-6 7-6(4) 6-3 3-6 6-3,TRUE,348
+Felix Auger Aliassime,Canada,CAN,Vasek Pospisil,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,5-7 6-2 6-4 6-3,TRUE,347
+David Goffin,Belgium,BEL,Christian Garin,Chile,CHI,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-0 6-2 6-2,TRUE,347
+Kevin Anderson,South Africa,RSA,Frances Tiafoe,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,4-6 6-4 6-4 7-5,FALSE,347
+Federico Delbonis,Argentina,ARG,Daniel Evans,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-6(5) 6-3,FALSE,347
+Alex De Minaur,Australia,AUS,Pedro Sousa,Portugal,POR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-5 6-4,TRUE,346
+Laslo Djere,Serbia,SRB,Richard Gasquet,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 7-6(5) 6-3,FALSE,346
+Karen Khachanov,Russian Federation,RUS,Yoshihito Nishioka,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-3 6-3,TRUE,346
+Denis Shapovalov,Canada,CAN,Andreas Seppi,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 4-6 5-7 7-6(2) 6-4,TRUE,346
+Grigor Dimitrov,Bulgaria,BUL,Marin Cilic,Croatia,CRO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-7(3) 6-4 4-6 7-6(2) 6-3,TRUE,346
+Lucas Pouille,France,FRA,Yannick Maden,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(6) 6-2 7-5,TRUE,346
+Karen Khachanov,Russian Federation,RUS,Roberto Bautista Agut,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-3 7-6(3) 6-1,FALSE,346
+Dominic Thiem,Austria,AUT,Rafael Nadal,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,QF,0-6 6-4 7-5 6-7(4) 7-6(5),FALSE,346
+Novak Djokovic,Serbia,SRB,John Millman,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,QF,6-3 6-4 6-4,TRUE,345
+Miomir Kecmanovic,Serbia,SRB,Roberto Carballes Baena,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,2-6 6-3 6-3 6-1,TRUE,345
+Kei Nishikori,Japan,JPN,Mikhail Kukushkin,Kazakhstan,KAZ,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-3 3-6 6-3 6-4,TRUE,345
+Pablo Cuevas,Uruguay,URU,Grigor Dimitrov,Bulgaria,BUL,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-7(5) 6-3 7-5,FALSE,345
+Roberto Bautista Agut,Spain,ESP,Stefanos Tsitsipas,Greece,GRE,1/14/2019,Australian Open,G,5,H,FALSE,85,QF,7-5 4-6 6-4 7-6(2),FALSE,345
+Henri Laaksonen,Switzerland,SUI,Mirza Basic,Bosnia and Herzegovina,BIH,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-6(4) 4-6 6-3,TRUE,345
+Benoit Paire,France,FRA,Juan Ignacio Londero,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 6-4 6-4 7-6(4),TRUE,345
+Jeremy Chardy,France,FRA,Ugo Humbert,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 7-6(6) 6-4 6-7(4) 7-6(6),TRUE,344
+Marin Cilic,Croatia,CRO,Mackenzie Mcdonald,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-5 6-7(9) 6-4 6-4,TRUE,344
+Rafael Nadal,Spain,ESP,Roger Federer,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,SF,6-3 6-4 6-2,TRUE,344
+Jaume Munar,Spain,ESP,Ruben Bemelmans,Belgium,BEL,8/27/2018,US Open,G,5,H,FALSE,61,R128,5-7 6-3 7-6(3) 2-6 6-1,TRUE,344
+Laslo Djere,Serbia,SRB,Guido Andreozzi,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 7-6(3) 7-6(3) 6-3,TRUE,344
+Pablo Cuevas,Uruguay,URU,Dusan Lajovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-5 6-1,TRUE,344
+Stefanos Tsitsipas,Greece,GRE,Hugo Dellien,"Bolivia, Plurinational State of",BOL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,4-6 6-0 6-3 7-5,TRUE,344
+Cameron Norrie,United Kingdom,GBR,Jordan Thompson,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 4-6 6-4 6-3,TRUE,343
+Novak Djokovic,Serbia,SRB,Juan Martin Del Potro,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,F,6-3 7-6(4) 6-3,TRUE,343
+Karen Khachanov,Russian Federation,RUS,Soon Woo Kwon,"Korea, Republic of",KOR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(6) 6-4 4-6 7-5,TRUE,343
+Leonardo Mayer,Argentina,ARG,Nicolas Mahut,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,3-6 7-6(3) 6-4 7-6(3),TRUE,343
+Hubert Hurkacz,Poland,POL,Novak Djokovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-5 6-7(5) 6-1 6-4,FALSE,343
+David Goffin,Belgium,BEL,Federico Gaio,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-4 7-6(5),TRUE,343
+Marin Cilic,Croatia,CRO,Marius Copil,Romania,ROU,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 6-1 1-1 RET,TRUE,343
+Fabio Fognini,Italy,ITA,Federico Delbonis,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 3-6 6-3 6-3,TRUE,342
+Leonardo Mayer,Argentina,ARG,Fabio Fognini,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(3) 6-3 7-6(5),FALSE,342
+Thomas Fabbiano,Italy,ITA,Jason Kubler,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-6(1) 2-6 6-3,TRUE,342
+Mitchell Krueger,United States,USA,Roberto Carballes Baena,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,3-6 6-2 6-4 7-6(3),FALSE,342
+Marco Cecchinato,Italy,ITA,Julien Benneteau,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,2-6 7-6(5) 6-3 6-4,FALSE,342
+David Goffin,Belgium,BEL,Miomir Kecmanovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-4 6-3,TRUE,342
+Tim Smyczek,United States,USA,Jan Lennard Struff,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(2) 6-4 6-3,FALSE,342
+Matteo Berrettini,Italy,ITA,Stefanos Tsitsipas,Greece,GRE,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(3) 6-4 6-3 7-6(4),FALSE,341
+Gael Monfils,France,FRA,Adrian Mannarino,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-4 6-4,TRUE,340
+Alex De Minaur,Australia,AUS,Frances Tiafoe,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 6-0 5-7 6-2,TRUE,340
+Robin Haase,Netherlands,NED,Mackenzie Mcdonald,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 4-6 6-3 6-1 6-3,TRUE,340
+Feliciano Lopez,Spain,ESP,Ivo Karlovic,Croatia,CRO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(4) 7-5 6-7(7) 7-5,FALSE,340
+Alexei Popyrin,Australia,AUS,Pablo Carreno Busta,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(2) 7-5 6-2,TRUE,340
+Bernard Tomic,Australia,AUS,Marin Cilic,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-2 6-4 7-6(3),FALSE,340
+Guido Pella,Argentina,ARG,Roberto Bautista Agut,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,7-5 6-4 3-6 6-3,FALSE,340
+Dusan Lajovic,Serbia,SRB,Cameron Norrie,United Kingdom,GBR,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 2-6 6-4 6-4,TRUE,340
+Pablo Carreno Busta,Spain,ESP,Ilya Ivashka,Belarus,BLR,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-2 6-3 7-6(7),TRUE,340
+Bradley Klahn,United States,USA,Hyeon Chung,"Korea, Republic of",KOR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 6-7(5) 6-3 6-2 6-4,FALSE,340
+Marin Cilic,Croatia,CRO,David Goffin,Belgium,BEL,8/27/2018,US Open,G,5,H,FALSE,61,R16,7-6(6) 6-2 6-4,TRUE,339
+Grigor Dimitrov,Bulgaria,BUL,Frances Tiafoe,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,7-5 7-6(6) 6-7(1) 7-5,FALSE,339
+Kei Nishikori,Japan,JPN,Jo Wilfried Tsonga,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,4-6 6-4 6-4 6-4,TRUE,339
+Jan Lennard Struff,Germany,GER,Radu Albot,"Moldova, Republic of",MDA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,7-6(2) 7-6(3) 6-7(4) 6-2,TRUE,339
+Jan Lennard Struff,Germany,GER,Denis Shapovalov,Canada,CAN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(1) 6-3 6-4,TRUE,338
+Tommy Paul,United States,USA,Dominic Thiem,Austria,AUT,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 4-6 7-6(5) 6-2,FALSE,338
+Novak Djokovic,Serbia,SRB,Marton Fucsovics,Hungary,HUN,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 3-6 6-4 6-0,TRUE,338
+Gael Monfils,France,FRA,Facundo Bagnis,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 3-6 6-0 6-0,TRUE,338
+Roger Federer,Switzerland,SUI,John Millman,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R16,3-6 7-5 7-6(7) 7-6(3),FALSE,338
+Roberto Carballes Baena,Spain,ESP,Alexandre Muller,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-4 6-2,TRUE,338
+Lorenzo Sonego,Italy,ITA,Marcel Granollers,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(4) 6-4 6-4,FALSE,338
+Kevin Anderson,South Africa,RSA,Dominic Thiem,Austria,AUT,8/27/2018,US Open,G,5,H,FALSE,61,R16,7-5 6-2 7-6(2),FALSE,338
+Fabio Fognini,Italy,ITA,Marton Fucsovics,Hungary,HUN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-7(6) 6-4 7-6(3) 2-6 6-3,TRUE,338
+Viktor Troicki,Serbia,SRB,Stefanos Tsitsipas,Greece,GRE,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 2-6 6-2 7-5,FALSE,338
+Diego Sebastian Schwartzman,Argentina,ARG,Tomas Berdych,Czech Republic,CZE,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,5-7 6-3 7-5 6-4,FALSE,338
+Denis Shapovalov,Canada,CAN,Ricardas Berankis,Lithuania,LTU,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(0) 6-4 6-3,FALSE,337
+James Ward,United Kingdom,GBR,Nikoloz Basilashvili,Georgia,GEO,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,2-6 4-6 6-4 6-4 8-6,FALSE,337
+Kei Nishikori,Japan,JPN,Philipp Kohlschreiber,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-3 6-2 7-5,TRUE,337
+Diego Sebastian Schwartzman,Argentina,ARG,Leonardo Mayer,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,4-6 6-3 6-4 7-5,FALSE,337
+Denis Shapovalov,Canada,CAN,Kevin Anderson,South Africa,RSA,8/27/2018,US Open,G,5,H,FALSE,61,R32,4-6 6-3 6-4 4-6 6-4,FALSE,337
+Tennys Sandgren,United States,USA,Viktor Troicki,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-4 6-2,TRUE,337
+Pierre Hugues Herbert,France,FRA,Daniil Medvedev,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,4-6 4-6 6-3 6-2 7-5,TRUE,337
+Marin Cilic,Croatia,CRO,Grigor Dimitrov,Bulgaria,BUL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-7(3) 6-4 4-6 7-6(2) 6-3,FALSE,337
+Denis Istomin,Uzbekistan,UZB,Roger Federer,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-4 6-4,FALSE,337
+David Goffin,Belgium,BEL,Marius Copil,Romania,ROU,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,5-7 7-5 6-4 6-4,TRUE,336
+Miomir Kecmanovic,Serbia,SRB,Benoit Paire,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-6(5) 6-4 RET,FALSE,336
+Borna Coric,Croatia,CRO,Filip Krajinovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,2-6 6-3 6-4 6-3,TRUE,336
+Ugo Humbert,France,FRA,Gael Monfils,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-7(8) 3-6 6-4 7-5 3-0 RET,TRUE,336
+Andrea Arnaboldi,Italy,ITA,Ivo Karlovic,Croatia,CRO,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 7-6(4),FALSE,336
+Jeremy Chardy,France,FRA,Andrey Rublev,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 4-6 6-4 6-1,TRUE,336
+Ruben Bemelmans,Belgium,BEL,Jaume Munar,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,5-7 6-3 7-6(3) 2-6 6-1,FALSE,336
+Thiago Monteiro,Brazil,BRA,Kei Nishikori,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 7-6(3) 6-4,FALSE,336
+Alex De Minaur,Australia,AUS,Henri Laaksonen,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 6-2 6-7(7) 4-6 6-3,TRUE,335
+Marin Cilic,Croatia,CRO,Thomas Fabbiano,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 7-5 6-1,TRUE,335
+Andrey Rublev,Russian Federation,RUS,Christian Garin,Chile,CHI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 6-4 7-5 6-4,TRUE,335
+John Millman,Australia,AUS,Sam Querrey,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-6(3) 7-6(8) 6-3,FALSE,335
+Pablo Carreno Busta,Spain,ESP,Kei Nishikori,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(8) 4-6 7-6(4) 6-4 7-6(8),FALSE,335
+Stefanos Tsitsipas,Greece,GRE,Stan Wawrinka,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,7-6(6) 5-7 6-4 3-6 8-6,FALSE,335
+Damir Dzumhur,Bosnia and Herzegovina,BIH,Pablo Cuevas,Uruguay,URU,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 7-6(8) 2-6 6-4 6-2,FALSE,335
+Antonie Hoang,France,FRA,Fernando Verdasco,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 3-6 7-6(5) 7-5,TRUE,335
+Fabio Fognini,Italy,ITA,Michael Mmoh,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 6-2 6-4 7-6(4),TRUE,334
+Stan Wawrinka,Switzerland,SUI,Grigor Dimitrov,Bulgaria,BUL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,7-6(5) 7-6(4) 7-6(8),TRUE,334
+Nikoloz Basilashvili,Georgia,GEO,Jack Sock,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R64,4-6 6-3 6-2 7-6(3),TRUE,334
+Radu Albot,"Moldova, Republic of",MDA,Tennys Sandgren,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(3) 7-6(1) 3-6 6-1,TRUE,334
+Karen Khachanov,Russian Federation,RUS,Gregoire Barrere,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 7-6(6) 0-6 7-5,TRUE,333
+Ilya Ivashka,Belarus,BLR,Malek Jaziri,Tunisia,TUN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 7-6(6) 6-1 4-0 RET,TRUE,333
+Andreas Seppi,Italy,ITA,Frances Tiafoe,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-7(3) 6-3 4-6 6-4 6-3,FALSE,333
+Feliciano Lopez,Spain,ESP,Karen Khachanov,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,4-6 6-4 7-5 6-4,FALSE,333
+Karen Khachanov,Russian Federation,RUS,Rafael Nadal,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R32,5-7 7-5 7-6(7) 7-6(3),FALSE,333
+Stefanos Tsitsipas,Greece,GRE,Filip Krajinovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,7-5 6-3 6-7(5) 7-6(6),TRUE,333
+Adrian Mannarino,France,FRA,Stefano Travaglia,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-7(5) 6-3 3-6 6-2 6-2,TRUE,332
+Fernando Verdasco,Spain,ESP,Antonie Hoang,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 3-6 7-6(5) 7-5,FALSE,332
+Leonardo Mayer,Argentina,ARG,Jiri Vesely,Czech Republic,CZE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(3) 6-3 6-0,TRUE,332
+Pablo Cuevas,Uruguay,URU,Maxime Janvier,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-4 6-2,TRUE,332
+Andreas Seppi,Italy,ITA,Jordan Thompson,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-4 6-4,TRUE,332
+Matthew Ebden,Australia,AUS,Filip Krajinovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(1) 6-7(5) 4-6 6-1 4-1 RET,TRUE,332
+Diego Sebastian Schwartzman,Argentina,ARG,Jaume Munar,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 6-0 5-7 6-2,TRUE,332
+Matteo Berrettini,Italy,ITA,Marcos Baghdatis,Cyprus,CYP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-1 7-6(4) 6-3,TRUE,332
+Gilles Simon,France,FRA,Alex Bolt,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,2-6 6-4 4-6 7-6(8) 6-4,FALSE,331
+Daniel Evans,United Kingdom,GBR,Roger Federer,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-6(5) 7-6(3) 6-3,FALSE,331
+Lucas Pouille,France,FRA,Marcos Baghdatis,Cyprus,CYP,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(4) 6-4 6-4 6-3,TRUE,331
+Gilles Simon,France,FRA,Milos Raonic,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 6-4 6-4,FALSE,331
+Gilles Muller,Luxembourg,LUX,Lorenzo Sonego,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(2) 6-7(9) 5-7 7-6(6) 6-2,FALSE,331
+Bradley Klahn,United States,USA,David Goffin,Belgium,BEL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 6-4,FALSE,330
+Taro Daniel,Japan,JPN,Thanasi Kokkinakis,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,5-7 4-2 RET,TRUE,330
+Andreas Seppi,Italy,ITA,Denis Shapovalov,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 4-6 5-7 7-6(2) 6-4,FALSE,330
+Jordan Thompson,Australia,AUS,Nick Kyrgios,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(4) 3-6 7-6(10) 0-6 6-1,FALSE,330
+Jay Clarke,United Kingdom,GBR,Noah Rubin,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 7-5 6-4 6-4,TRUE,330
+Andy Murray,United Kingdom,GBR,Roberto Bautista Agut,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-4 6-7(5) 6-7(4) 6-2,FALSE,330
+Gilles Simon,France,FRA,Salvatore Caruso,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(7) 6-3 6-2,TRUE,330
+Gregoire Barrere,France,FRA,Matthew Ebden,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 5-7 7-5 6-1,TRUE,330
+Mackenzie Mcdonald,United States,USA,Andrey Rublev,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-4 2-6 6-4,TRUE,330
+Benoit Paire,France,FRA,Dominic Thiem,Austria,AUT,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-3 5-7 1-6 6-3,FALSE,329
+Nikoloz Basilashvili,Georgia,GEO,Stefanos Tsitsipas,Greece,GRE,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-3 3-6 7-6(7) 6-4,FALSE,329
+Hyeon Chung,"Korea, Republic of",KOR,Ricardas Berankis,Lithuania,LTU,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 7-6(6) 6-0 2-0 RET,TRUE,329
+Dominic Thiem,Austria,AUT,Taylor Harry Fritz,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R32,3-6 6-3 7-6(5) 6-4,TRUE,329
+Kamil Majchrzak,Poland,POL,Fernando Verdasco,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 6-4,FALSE,329
+Jason Kubler,Australia,AUS,Thomas Fabbiano,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-6(1) 2-6 6-3,FALSE,329
+Dusan Lajovic,Serbia,SRB,Damir Dzumhur,Bosnia and Herzegovina,BIH,8/27/2018,US Open,G,5,H,FALSE,61,R128,3-6 6-1 6-3 6-4,TRUE,329
+Marius Copil,Romania,ROU,Guido Pella,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(11) 5-7 6-3 6-4,FALSE,328
+Karen Khachanov,Russian Federation,RUS,Martin Klizan,Slovakia,SVK,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-1 6-4 6-3,TRUE,328
+Corentin Moutet,France,FRA,Juan Ignacio Londero,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,2-6 6-3 6-4 5-7 6-4,FALSE,328
+Miomir Kecmanovic,Serbia,SRB,Denis Kudla,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-7(9) 5-7 6-3 6-4,TRUE,328
+Dominic Thiem,Austria,AUT,Alexei Popyrin,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-5 6-4 2-0 RET,FALSE,328
+Daniil Medvedev,Russian Federation,RUS,Paolo Lorenzi,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-6(2) 7-6(2),TRUE,328
+Rafael Nadal,Spain,ESP,Karen Khachanov,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R32,5-7 7-5 7-6(7) 7-6(3),TRUE,328
+Nikoloz Basilashvili,Georgia,GEO,Christopher Eubanks,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 4-6 7-6(6) 6-3,TRUE,328
+Marton Fucsovics,Hungary,HUN,Fabio Fognini,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-7(6) 6-4 7-6(3) 2-6 6-3,FALSE,327
+Jason Kubler,Australia,AUS,Roberto Bautista Agut,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-3 6-4,TRUE,327
+Guido Pella,Argentina,ARG,Nikoloz Basilashvili,Georgia,GEO,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-3 6-4 1-6 7-6(4),FALSE,327
+Radu Albot,"Moldova, Republic of",MDA,Michael Mmoh,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 6-3 6-4 6-2,TRUE,327
+Stefanos Tsitsipas,Greece,GRE,Thomas Fabbiano,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 3-6 6-4 6-7(8) 6-3,FALSE,327
+Marin Cilic,Croatia,CRO,Roberto Bautista Agut,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(6) 6-3 6-2 4-6 6-4,FALSE,327
+Sam Querrey,United States,USA,Andreas Seppi,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-7(6) 6-4 6-2 2-1 RET,FALSE,327
+Stan Wawrinka,Switzerland,SUI,Ugo Humbert,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-6(5) 4-6 6-3 7-5,TRUE,327
+Marco Cecchinato,Italy,ITA,Filip Krajinovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 0-6 6-1 7-6(8) 6-4,FALSE,327
+Radu Albot,"Moldova, Republic of",MDA,Jan Lennard Struff,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,7-6(2) 7-6(3) 6-7(4) 6-2,FALSE,327
+Guido Andreozzi,Argentina,ARG,Laslo Djere,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 7-6(3) 7-6(3) 6-3,FALSE,327
+Soon Woo Kwon,"Korea, Republic of",KOR,Karen Khachanov,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(6) 6-4 4-6 7-5,FALSE,326
+Nick Kyrgios,Australia,AUS,Roger Federer,Switzerland,SUI,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 6-1 7-5,FALSE,326
+Martin Klizan,Slovakia,SVK,Mikhail Kukushkin,Kazakhstan,KAZ,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,3-6 5-7 6-4 6-2 6-3,TRUE,326
+Taylor Harry Fritz,United States,USA,Jason Kubler,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 3-6 6-3 RET,TRUE,326
+Diego Sebastian Schwartzman,Argentina,ARG,Federico Delbonis,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 7-6(6) 6-2,TRUE,326
+Miomir Kecmanovic,Serbia,SRB,Fernando Verdasco,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(5) 6-3 6-3,FALSE,326
+John Millman,Australia,AUS,Novak Djokovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,QF,6-3 6-4 6-4,FALSE,325
+Lorenzo Sonego,Italy,ITA,Karen Khachanov,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 6-3 6-3,FALSE,325
+Dominic Thiem,Austria,AUT,Pablo Cuevas,Uruguay,URU,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 4-6 6-2 7-5,TRUE,325
+Stan Wawrinka,Switzerland,SUI,Milos Raonic,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-6(6) 6-4 6-3,FALSE,325
+Juan Martin Del Potro,Argentina,ARG,Karen Khachanov,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,7-5 6-3 3-6 6-3,FALSE,325
+Lucas Pouille,France,FRA,Martin Klizan,Slovakia,SVK,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,7-6(4) 2-6 6-3 3-6 9-7,FALSE,325
+Jeremy Chardy,France,FRA,Kevin Anderson,South Africa,RSA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 6-4 6-4,FALSE,325
+Joao Sousa,Portugal,POR,Daniel Evans,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,4-6 6-4 7-5 4-6 6-4,TRUE,325
+Rafael Nadal,Spain,ESP,James Duckworth,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-3 7-5,TRUE,325
+Andreas Seppi,Italy,ITA,Guido Pella,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 4-6 4-6 7-5 6-1,FALSE,325
+Marin Cilic,Croatia,CRO,Kei Nishikori,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,QF,2-6 6-4 7-6(5) 4-6 6-4,FALSE,325
+Filip Krajinovic,Serbia,SRB,Borna Coric,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,2-6 6-3 6-4 6-3,FALSE,324
+Matteo Berrettini,Italy,ITA,Casper Ruud,Norway,NOR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 7-5 6-3,FALSE,324
+Joao Sousa,Portugal,POR,Paul Jubb,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-0 6-3 6-7(8) 6-1,TRUE,324
+Kyle Edmund,United Kingdom,GBR,Jeremy Chardy,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(1) 5-7 6-4 4-6 7-5,TRUE,324
+Benoit Paire,France,FRA,Pierre Hugues Herbert,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-2 5-7 6-7(6) 11-9,TRUE,324
+Marcel Granollers,Spain,ESP,Ugo Humbert,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 7-6(3) 7-5,FALSE,324
+Prajnesh Gunneswaran,India,IND,Milos Raonic,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(1) 6-4 6-2,FALSE,323
+David Goffin,Belgium,BEL,Jan Lennard Struff,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 6-1 7-6(4),TRUE,323
+David Goffin,Belgium,BEL,Daniil Medvedev,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,4-6 6-2 3-6 6-3 7-5,TRUE,323
+Nicolas Jarry,Chile,CHI,Juan Martin Del Potro,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,3-6 6-2 6-1 6-4,FALSE,323
+Nikoloz Basilashvili,Georgia,GEO,Guido Pella,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-3 6-4 1-6 7-6(4),TRUE,322
+Marin Cilic,Croatia,CRO,Joao Sousa,Portugal,POR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-4 6-4,FALSE,322
+Aljaz Bedene,Slovenia,SLO,Matteo Berrettini,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-3 6-2 7-6(3),FALSE,322
+Novak Djokovic,Serbia,SRB,Denis Shapovalov,Canada,CAN,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-3 6-4 4-6 6-0,TRUE,322
+Grigor Dimitrov,Bulgaria,BUL,Corentin Moutet,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,2-6 3-6 7-6(4) 6-3 6-1,FALSE,322
+Nikoloz Basilashvili,Georgia,GEO,James Ward,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,2-6 4-6 6-4 6-4 8-6,TRUE,322
+Mikhail Kukushkin,Kazakhstan,KAZ,Martin Klizan,Slovakia,SVK,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,3-6 5-7 6-4 6-2 6-3,FALSE,322
+Mirza Basic,Bosnia and Herzegovina,BIH,Henri Laaksonen,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-6(4) 4-6 6-3,FALSE,322
+Jo Wilfried Tsonga,France,FRA,Peter Gojowczyk,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(4) 6-1 4-6 6-3,TRUE,322
+Kei Nishikori,Japan,JPN,Laslo Djere,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-4 6-7(6) 6-3 4-6 8-6,TRUE,321
+Joao Sousa,Portugal,POR,Lucas Pouille,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-6(5) 4-6 7-6(4) 7-6(5),TRUE,321
+Pierre Hugues Herbert,France,FRA,Nick Kyrgios,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R64,4-6 7-6(6) 6-3 6-0,FALSE,321
+Steve Johnson,United States,USA,Dominic Thiem,Austria,AUT,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(5) 6-3 5-7 6-4 6-1,FALSE,321
+Filip Krajinovic,Serbia,SRB,Roberto Carballes Baena,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 6-4 6-7(1) 3-6 8-6,TRUE,321
+Lucas Pouille,France,FRA,Joao Sousa,Portugal,POR,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-6(5) 4-6 7-6(4) 7-6(5),FALSE,320
+David Goffin,Belgium,BEL,Fernando Verdasco,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,7-6(9) 2-6 6-3 6-4,TRUE,320
+Evgeny Donskoy,Russian Federation,RUS,Daniil Medvedev,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 6-4 6-2,FALSE,320
+Karen Khachanov,Russian Federation,RUS,Peter Gojowczyk,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 6-3 6-4 6-2,TRUE,320
+Kei Nishikori,Japan,JPN,Diego Sebastian Schwartzman,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 6-4 5-7 6-1,TRUE,320
+Kei Nishikori,Japan,JPN,Roger Federer,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,4-6 6-1 6-4 6-4,FALSE,320
+Juan Ignacio Londero,Argentina,ARG,Benoit Paire,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 6-4 6-4 7-6(4),FALSE,320
+Casper Ruud,Norway,NOR,John Isner,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-4 7-6(9),FALSE,320
+Cameron Norrie,United Kingdom,GBR,Taylor Harry Fritz,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 7-6(6) 6-2,FALSE,320
+Grigor Dimitrov,Bulgaria,BUL,Janko Tipsarevic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-0 3-6 6-7(4) 6-4,TRUE,320
+Taylor Harry Fritz,United States,USA,Dominic Thiem,Austria,AUT,8/27/2018,US Open,G,5,H,FALSE,61,R32,3-6 6-3 7-6(5) 6-4,FALSE,319
+Rafael Nadal,Spain,ESP,Dominic Thiem,Austria,AUT,8/27/2018,US Open,G,5,H,FALSE,61,QF,0-6 6-4 7-5 6-7(4) 7-6(5),TRUE,319
+Marco Cecchinato,Italy,ITA,Nicolas Mahut,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,2-6 6-7(6) 6-4 6-2 6-4,FALSE,319
+Roger Federer,Switzerland,SUI,Lloyd George Muirhead Harris,South Africa,RSA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-1 6-2 6-2,TRUE,319
+Pierre Hugues Herbert,France,FRA,Yuki Bhambri,India,IND,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(3) 7-5,TRUE,319
+Sergiy Stakhovsky,Ukraine,UKR,Gilles Simon,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-3 6-4,FALSE,319
+Kei Nishikori,Japan,JPN,Pablo Carreno Busta,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-7(8) 4-6 7-6(4) 6-4 7-6(8),TRUE,319
+Collin Altamirano,United States,USA,Ugo Humbert,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(4) 6-3,FALSE,319
+Kei Nishikori,Japan,JPN,Benoit Paire,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-2 6-7(8) 6-2 6-7(8) 6-2,TRUE,319
+Nicolas Mahut,France,FRA,Corentin Moutet,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 7-5 5-7 6-4,TRUE,318
+Evgeny Donskoy,Russian Federation,RUS,Filip Krajinovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 7-6(8) 7-6(2),FALSE,318
+Simone Bolelli,Italy,ITA,Lucas Pouille,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-4 7-5,FALSE,318
+Kei Nishikori,Japan,JPN,Novak Djokovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,SF,6-3 6-4 6-2,FALSE,318
+Mackenzie Mcdonald,United States,USA,Marin Cilic,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,7-5 6-7(9) 6-4 6-4,FALSE,318
+Feliciano Lopez,Spain,ESP,Jordan Thompson,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 7-6(0) 6-3,FALSE,317
+Mikhail Kukushkin,Kazakhstan,KAZ,Kei Nishikori,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-3 3-6 6-3 6-4,FALSE,317
+Jack Sock,United States,USA,Nikoloz Basilashvili,Georgia,GEO,8/27/2018,US Open,G,5,H,FALSE,61,R64,4-6 6-3 6-2 7-6(3),FALSE,317
+Sam Querrey,United States,USA,John Millman,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-6(3) 7-6(8) 6-3,TRUE,317
+Stefanos Tsitsipas,Greece,GRE,Roberto Bautista Agut,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,QF,7-5 4-6 6-4 7-6(2),TRUE,316
+Marc Polmans,Australia,AUS,Denis Kudla,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,5-7 1-6 6-2 6-3 6-2,FALSE,316
+Nikoloz Basilashvili,Georgia,GEO,Aljaz Bedene,Slovenia,SLO,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 4-6 6-2 2-6 6-4,TRUE,316
+Frances Tiafoe,United States,USA,Rafael Nadal,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,QF,6-3 6-4 6-2,FALSE,316
+Fabio Fognini,Italy,ITA,Alexander Zverev,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,3-6 6-2 6-2 7-6(5),FALSE,316
+Pablo Carreno Busta,Spain,ESP,Joao Sousa,Portugal,POR,8/27/2018,US Open,G,5,H,FALSE,61,R64,4-6 6-3 5-7 6-2 2-0 RET,FALSE,315
+Jan Lennard Struff,Germany,GER,Julien Benneteau,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 4-6 6-1 3-6 6-3,TRUE,315
+Dominic Thiem,Austria,AUT,Benoit Paire,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-3 5-7 1-6 6-3,TRUE,315
+Christian Garin,Chile,CHI,Andrey Rublev,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 6-4 7-5 6-4,FALSE,315
+Reilly Opelka,United States,USA,Milos Raonic,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-6(1) 6-2 6-1,FALSE,315
+Mackenzie Mcdonald,United States,USA,Robin Haase,Netherlands,NED,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 4-6 6-3 6-1 6-3,FALSE,315
+Fabio Fognini,Italy,ITA,Tennys Sandgren,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-3 7-6(12) 6-3,FALSE,315
+Adrian Mannarino,France,FRA,Frances Tiafoe,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-1 6-4 4-6 6-4,FALSE,315
+Rafael Nadal,Spain,ESP,Nick Kyrgios,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 3-6 7-6(5) 7-6(3),TRUE,315
+Pablo Carreno Busta,Spain,ESP,Fabio Fognini,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-2 6-4 2-6 6-4,TRUE,314
+Janko Tipsarevic,Serbia,SRB,Kevin Anderson,South Africa,RSA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-7(5) 6-1 6-4,FALSE,314
+Gael Monfils,France,FRA,Ugo Humbert,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-7(8) 3-6 6-4 7-5 3-0 RET,FALSE,314
+Guido Andreozzi,Argentina,ARG,Guido Pella,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(2) 6-4 1-6 6-1,FALSE,314
+Juan Martin Del Potro,Argentina,ARG,Borna Coric,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-4 6-3 6-1,TRUE,314
+Matteo Berrettini,Italy,ITA,Denis Kudla,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 7-5 6-2,FALSE,314
+Tennys Sandgren,United States,USA,Yasutaka Uchiyama,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-2 6-4 6-3,TRUE,313
+Milos Raonic,Canada,CAN,Alexander Zverev,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-1 6-1 7-6(5),TRUE,313
+Cameron Norrie,United Kingdom,GBR,Dusan Lajovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 2-6 6-4 6-4,FALSE,313
+John Millman,Australia,AUS,Roberto Bautista Agut,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-1 3-6 6-7(6) 6-4,FALSE,313
+Alexander Zverev,Germany,GER,Aljaz Bedene,Slovenia,SLO,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-1 6-4,TRUE,313
+Tennys Sandgren,United States,USA,Yoshihito Nishioka,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-6(5) 4-6 6-4,FALSE,313
+Gregoire Barrere,France,FRA,Karen Khachanov,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 7-6(6) 0-6 7-5,FALSE,313
+Ugo Humbert,France,FRA,Stan Wawrinka,Switzerland,SUI,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-6(5) 4-6 6-3 7-5,FALSE,313
+Fabio Fognini,Italy,ITA,Frances Tiafoe,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,5-7 6-4 6-3 4-6 6-4,TRUE,312
+Novak Djokovic,Serbia,SRB,Dominic Thiem,Austria,AUT,5/26/2019,Roland Garros,G,5,C,FALSE,48,SF,6-2 3-6 7-5 5-7 7-5,FALSE,312
+Alex Bolt,Australia,AUS,Gilles Simon,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,2-6 6-4 4-6 7-6(8) 6-4,TRUE,312
+Alexander Bublik,Russian Federation,RUS,Dominic Thiem,Austria,AUT,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-7(6) 6-3 7-5,FALSE,312
+Milos Raonic,Canada,CAN,Carlos Berlocq,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 6-4 1-6 6-3,TRUE,312
+Bjorn Fratangelo,United States,USA,Gilles Simon,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(2) 6-4 6-2,FALSE,312
+Richard Gasquet,France,FRA,Lucas Pouille,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-1 6-4 7-6(4),FALSE,312
+Alexander Zverev,Germany,GER,Jiri Vesely,Czech Republic,CZE,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 6-3 6-2 7-5,FALSE,311
+Borna Coric,Croatia,CRO,Jan Lennard Struff,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,4-6 6-1 4-6 7-6(1) 11-9,FALSE,311
+Alexei Popyrin,Australia,AUS,Daniil Medvedev,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-7(6) 6-1 6-4 6-4,FALSE,311
+Mikael Ymer,Sweden,SWE,Alexander Zverev,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-3 7-6(3),FALSE,310
+Marius Copil,Romania,ROU,David Goffin,Belgium,BEL,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,5-7 7-5 6-4 6-4,FALSE,310
+Albert Ramos,Spain,ESP,Steve Johnson,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-2 6-3,FALSE,310
+Lucas Pouille,France,FRA,Milos Raonic,Canada,CAN,1/14/2019,Australian Open,G,5,H,FALSE,85,QF,7-6(4) 6-3 6-7(2) 6-4,TRUE,310
+Janko Tipsarevic,Serbia,SRB,Grigor Dimitrov,Bulgaria,BUL,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 6-3 6-1 6-4,FALSE,310
+Brayden Schnur,Canada,CAN,Marcos Baghdatis,Cyprus,CYP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-4 6-4,FALSE,310
+Rudolf Molleker,Germany,GER,Alexander Bublik,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-5 6-7(4) 6-1 7-6(2),FALSE,310
+Steve Darcis,Belgium,BEL,Borna Coric,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 6-4 6-4,FALSE,310
+Nikoloz Basilashvili,Georgia,GEO,Rafael Nadal,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-3 6-3 6-7(6) 6-4,FALSE,310
+Daniil Medvedev,Russian Federation,RUS,David Goffin,Belgium,BEL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,4-6 6-2 3-6 6-3 7-5,FALSE,310
+Peter Gojowczyk,Germany,GER,Karen Khachanov,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 6-3 6-4 6-2,FALSE,309
+Thomas Fabbiano,Italy,ITA,Fernando Verdasco,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 7-6(1) 6-4,FALSE,309
+Laslo Djere,Serbia,SRB,Leonardo Mayer,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-4 4-6 2-1 RET,TRUE,309
+Kei Nishikori,Japan,JPN,Marin Cilic,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,QF,2-6 6-4 7-6(5) 4-6 6-4,TRUE,309
+Jeremy Chardy,France,FRA,Kyle Edmund,United Kingdom,GBR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(1) 5-7 6-4 4-6 7-5,FALSE,309
+Jaume Munar,Spain,ESP,Fabio Fognini,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(3) 7-6(7) 3-1 RET,FALSE,309
+Novak Djokovic,Serbia,SRB,Roger Federer,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,F,7-6(5) 1-6 7-6(4) 4-6 13-12(3),TRUE,309
+Nick Kyrgios,Australia,AUS,Jordan Thompson,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(4) 3-6 7-6(10) 0-6 6-1,TRUE,309
+Yoshihito Nishioka,Japan,JPN,Janko Tipsarevic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-7(2) 6-2 5-7 6-2,FALSE,309
+Diego Sebastian Schwartzman,Argentina,ARG,Matthew Ebden,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 3-6 6-3 6-2,TRUE,308
+Kei Nishikori,Japan,JPN,Steve Johnson,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 6-3 6-2,TRUE,308
+Pierre Hugues Herbert,France,FRA,Benoit Paire,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-2 5-7 6-7(6) 11-9,FALSE,308
+Dominic Thiem,Austria,AUT,Novak Djokovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,SF,6-2 3-6 7-5 5-7 7-5,TRUE,308
+Juan Ignacio Londero,Argentina,ARG,Corentin Moutet,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,2-6 6-3 6-4 5-7 6-4,TRUE,307
+Alex De Minaur,Australia,AUS,Marin Cilic,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R32,4-6 3-6 6-3 6-4 7-5,FALSE,307
+Jo Wilfried Tsonga,France,FRA,Kei Nishikori,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,4-6 6-4 6-4 6-4,FALSE,307
+Kyle Edmund,United Kingdom,GBR,Fernando Verdasco,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,4-6 4-6 7-6(3) 6-3 6-4,FALSE,307
+Jaume Munar,Spain,ESP,Kyle Edmund,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 6-4,FALSE,307
+Joao Sousa,Portugal,POR,Pablo Carreno Busta,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R64,4-6 6-3 5-7 6-2 2-0 RET,TRUE,306
+Jaume Munar,Spain,ESP,Salvatore Caruso,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-5 4-6 6-3 6-3,FALSE,306
+John Millman,Australia,AUS,Mikhail Kukushkin,Kazakhstan,KAZ,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 4-6 6-1 6-3,TRUE,306
+Pedro Sousa,Portugal,POR,Alex De Minaur,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-5 6-4,FALSE,306
+Andrey Rublev,Russian Federation,RUS,Mackenzie Mcdonald,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-4 2-6 6-4,FALSE,306
+Pablo Cuevas,Uruguay,URU,Kyle Edmund,United Kingdom,GBR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,7-6(3) 6-3 2-1 RET,TRUE,306
+Mikhail Kukushkin,Kazakhstan,KAZ,Noah Rubin,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-1 4-6 7-6(3),TRUE,305
+Mischa Zverev,Germany,GER,Richard Gasquet,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-4 6-3,FALSE,305
+Bradley Klahn,United States,USA,Alex De Minaur,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-4 6-4,FALSE,305
+Diego Sebastian Schwartzman,Argentina,ARG,Denis Kudla,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 7-5 3-6 6-7(6) 6-4,TRUE,305
+Nicolas Jarry,Chile,CHI,Andreas Seppi,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-7(8) 6-1 6-2,FALSE,305
+Denis Kudla,United States,USA,Miomir Kecmanovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-7(9) 5-7 6-3 6-4,FALSE,305
+Rafael Nadal,Spain,ESP,Juan Martin Del Potro,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,SF,7-6(3) 6-2 RET,FALSE,305
+Noah Rubin,United States,USA,Jay Clarke,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 7-5 6-4 6-4,FALSE,305
+Stefano Travaglia,Italy,ITA,Hubert Hurkacz,Poland,POL,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 2-6 7-6(6) 3-0 RET,FALSE,305
+Martin Klizan,Slovakia,SVK,Lucas Pouille,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,7-6(4) 2-6 6-3 3-6 9-7,TRUE,305
+Frances Tiafoe,United States,USA,Fabio Fognini,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,5-7 6-4 6-3 4-6 6-4,FALSE,305
+Daniil Medvedev,Russian Federation,RUS,Novak Djokovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-4 6-7(5) 6-2 6-3,FALSE,305
+Marcos Giron,United States,USA,Feliciano Lopez,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-2 6-4,FALSE,304
+Tennys Sandgren,United States,USA,Gilles Simon,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-2 6-3 4-6 3-6 8-6,TRUE,304
+Filip Krajinovic,Serbia,SRB,Dominik Koepfer,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 4-6 7-6(9) 6-1,FALSE,304
+Novak Djokovic,Serbia,SRB,Joao Sousa,Portugal,POR,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-3 6-4 6-3,TRUE,304
+Aljaz Bedene,Slovenia,SLO,Nikoloz Basilashvili,Georgia,GEO,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 4-6 6-2 2-6 6-4,FALSE,304
+Juan Martin Del Potro,Argentina,ARG,Yoshihito Nishioka,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,5-7 6-4 6-2 6-7(5) 6-2,TRUE,304
+Federico Gaio,Italy,ITA,David Goffin,Belgium,BEL,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-4 7-6(5),FALSE,304
+Viktor Troicki,Serbia,SRB,Roberto Carballes Baena,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 1-6 2-6 6-1 6-4,TRUE,304
+Fernando Verdasco,Spain,ESP,Andy Murray,United Kingdom,GBR,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 2-6 6-4 6-4,TRUE,304
+Mackenzie Mcdonald,United States,USA,Yoshihito Nishioka,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-7(7) 6-0 4-6 6-2 6-3,FALSE,303
+Daniil Medvedev,Russian Federation,RUS,Pierre Hugues Herbert,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,4-6 4-6 6-3 6-2 7-5,FALSE,303
+Taylor Harry Fritz,United States,USA,Mischa Zverev,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 2-6 6-4 7-6(2) 6-2,TRUE,303
+Alexander Zverev,Germany,GER,John Millman,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(4) 6-3 2-6 6-7(5) 6-3,TRUE,303
+John Millman,Australia,AUS,Alexander Zverev,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(4) 6-3 2-6 6-7(5) 6-3,FALSE,303
+Marcos Baghdatis,Cyprus,CYP,Lucas Pouille,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(4) 6-4 6-4 6-3,FALSE,303
+Lucas Pouille,France,FRA,Roger Federer,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,7-5 6-2 7-6(4),FALSE,303
+Tomas Berdych,Czech Republic,CZE,Taylor Harry Fritz,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-4 6-3,FALSE,303
+Lloyd George Muirhead Harris,South Africa,RSA,Lukas Rosol,Czech Republic,CZE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 4-6 2-6 6-1 6-2,TRUE,303
+Roberto Carballes Baena,Spain,ESP,Miomir Kecmanovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,2-6 6-3 6-3 6-1,FALSE,302
+Tennys Sandgren,United States,USA,Radu Albot,"Moldova, Republic of",MDA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(3) 7-6(1) 3-6 6-1,FALSE,302
+Sam Querrey,United States,USA,Rafael Nadal,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,7-5 6-2 6-2,FALSE,302
+Guillermo Garcia Lopez,Spain,ESP,Federico Delbonis,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 3-6 6-3 6-2,FALSE,302
+Roberto Carballes Baena,Spain,ESP,Filip Krajinovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 6-4 6-7(1) 3-6 8-6,FALSE,302
+Pablo Cuevas,Uruguay,URU,Damir Dzumhur,Bosnia and Herzegovina,BIH,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,4-6 7-6(8) 2-6 6-4 6-2,TRUE,302
+Juan Martin Del Potro,Argentina,ARG,Donald Young,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-0 6-3 6-4,TRUE,302
+Gregoire Barrere,France,FRA,Alexander Bublik,Russian Federation,RUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-4 6-3 6-3,TRUE,302
+Denis Kudla,United States,USA,Juan Martin Del Potro,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 6-1 7-6(4),FALSE,302
+Kei Nishikori,Japan,JPN,Thiago Monteiro,Brazil,BRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 7-6(3) 6-4,TRUE,302
+Jack Sock,United States,USA,Alex Bolt,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 6-3 6-2 6-2,FALSE,302
+Thiago Monteiro,Brazil,BRA,Dusan Lajovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-4 6-4,FALSE,302
+Filip Krajinovic,Serbia,SRB,Stefanos Tsitsipas,Greece,GRE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,7-5 6-3 6-7(5) 7-6(6),FALSE,301
+Richard Gasquet,France,FRA,Juan Ignacio Londero,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 3-6 6-3 6-4,FALSE,301
+Laslo Djere,Serbia,SRB,Kei Nishikori,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-4 6-7(6) 6-3 4-6 8-6,FALSE,301
+Vasek Pospisil,Canada,CAN,Felix Auger Aliassime,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,5-7 6-2 6-4 6-3,FALSE,301
+Federico Delbonis,Argentina,ARG,John Millman,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 3-6 7-6(3) 6-2,FALSE,301
+Corentin Moutet,France,FRA,Felix Auger Aliassime,Canada,CAN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 4-6 6-4 6-2,FALSE,301
+Pablo Andujar,Spain,ESP,Mikhail Kukushkin,Kazakhstan,KAZ,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-2 6-4,FALSE,301
+Pablo Carreno Busta,Spain,ESP,Alexei Popyrin,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(2) 7-5 6-2,FALSE,301
+Michael Mmoh,United States,USA,Fabio Fognini,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 6-2 6-4 7-6(4),FALSE,301
+Juan Martin Del Potro,Argentina,ARG,Novak Djokovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,F,6-3 7-6(4) 6-3,FALSE,301
+Leonardo Mayer,Argentina,ARG,Hubert Hurkacz,Poland,POL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-7(4) 6-1 7-6(7) 6-3,FALSE,300
+Daniel Evans,United Kingdom,GBR,Joao Sousa,Portugal,POR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,4-6 6-4 7-5 4-6 6-4,FALSE,300
+Jozef Kovalik,Slovakia,SVK,Stan Wawrinka,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-7(3) 6-2 6-3,FALSE,300
+Taylor Harry Fritz,United States,USA,Roger Federer,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-2 7-5 6-2,FALSE,300
+Karen Khachanov,Russian Federation,RUS,Roberto Bautista Agut,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-4 7-5 6-4,FALSE,299
+Kei Nishikori,Japan,JPN,Cameron Norrie,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-4 6-0,TRUE,299
+Dusan Lajovic,Serbia,SRB,Alexander Zverev,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-4 6-2 4-6 1-6 6-2,FALSE,298
+Alexander Zverev,Germany,GER,Dusan Lajovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-4 6-2 4-6 1-6 6-2,TRUE,298
+Novak Djokovic,Serbia,SRB,Henri Laaksonen,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-4 6-3,TRUE,298
+David Goffin,Belgium,BEL,Rafael Nadal,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-1 6-3 4-6 6-3,FALSE,298
+Corentin Moutet,France,FRA,Grigor Dimitrov,Bulgaria,BUL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,2-6 3-6 7-6(4) 6-3 6-1,TRUE,298
+Grigor Dimitrov,Bulgaria,BUL,Stan Wawrinka,Switzerland,SUI,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-2 7-5,FALSE,298
+Fernando Verdasco,Spain,ESP,Kyle Edmund,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,4-6 4-6 7-6(3) 6-3 6-4,TRUE,298
+Ricardas Berankis,Lithuania,LTU,Jo Wilfried Tsonga,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,7-6(4) 6-3 6-3,FALSE,298
+Elliot Benchetrit,France,FRA,Dusan Lajovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-3 6-4,FALSE,298
+Christopher Eubanks,United States,USA,Nikoloz Basilashvili,Georgia,GEO,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 4-6 7-6(6) 6-3,FALSE,298
+Philipp Kohlschreiber,Germany,GER,Matthew Ebden,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(1) 6-3 6-2 6-0,TRUE,298
+Mikael Ymer,Sweden,SWE,Blaz Rola,Slovenia,SLO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-3 7-6(5),TRUE,298
+Dominic Thiem,Austria,AUT,Gael Monfils,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-4 6-4 6-2,TRUE,297
+Denis Istomin,Uzbekistan,UZB,Cameron Norrie,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-4 6-4,FALSE,297
+Tatsuma Ito,Japan,JPN,Daniel Evans,United Kingdom,GBR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-5 6-1 7-6(8),FALSE,297
+Yoshihito Nishioka,Japan,JPN,Juan Martin Del Potro,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,5-7 6-4 6-2 6-7(5) 6-2,FALSE,297
+Daniil Medvedev,Russian Federation,RUS,David Goffin,Belgium,BEL,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-2 7-6(3) 6-3,TRUE,297
+Kyle Edmund,United Kingdom,GBR,Paolo Lorenzi,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 6-4 7-5 6-1,FALSE,297
+Andrey Rublev,Russian Federation,RUS,Sam Querrey,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 6-3,FALSE,296
+Stan Wawrinka,Switzerland,SUI,Ernests Gulbis,Latvia,LAT,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 3-1 RET,TRUE,296
+Radu Albot,"Moldova, Republic of",MDA,Nick Kyrgios,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 2-6 6-4 6-2,FALSE,296
+Denis Kudla,United States,USA,Diego Sebastian Schwartzman,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 7-5 3-6 6-7(6) 6-4,FALSE,296
+Jordan Thompson,Australia,AUS,Cameron Norrie,United Kingdom,GBR,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 4-6 6-4 6-3,FALSE,296
+Yannick Maden,Germany,GER,Kimmer Coppejans,Belgium,BEL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(0) 7-5 6-3,TRUE,296
+Martin Klizan,Slovakia,SVK,Jeremy Chardy,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-0 6-3 6-4,FALSE,296
+Denis Shapovalov,Canada,CAN,Jan Lennard Struff,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(1) 6-3 6-4,FALSE,296
+Felix Auger Aliassime,Canada,CAN,Ugo Humbert,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 7-5 6-3,FALSE,295
+Florian Mayer,Germany,GER,Borna Coric,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 5-7 6-4,FALSE,295
+Cedrik Marcel Stebe,Germany,GER,Reilly Opelka,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-6(4) 6-1,FALSE,295
+James Duckworth,Australia,AUS,Andy Murray,United Kingdom,GBR,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-7(5) 6-3 7-5 6-3,FALSE,295
+Yannick Maden,Germany,GER,Lucas Pouille,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(6) 6-2 7-5,FALSE,295
+Steve Johnson,United States,USA,Andreas Seppi,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 4-6 6-4 6-3,FALSE,295
+Borna Coric,Croatia,CRO,Juan Martin Del Potro,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-4 6-3 6-1,FALSE,294
+Roberto Bautista Agut,Spain,ESP,Novak Djokovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,SF,6-2 4-6 6-3 6-2,FALSE,294
+Marin Cilic,Croatia,CRO,Alex De Minaur,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R32,4-6 3-6 6-3 6-4 7-5,TRUE,294
+Juan Martin Del Potro,Argentina,ARG,Fernando Verdasco,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-5 7-6(6) 6-3,TRUE,294
+Peter Gojowczyk,Germany,GER,Nicolas Jarry,Chile,CHI,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 4-6 6-1 7-5,FALSE,293
+Stefano Travaglia,Italy,ITA,Nikoloz Basilashvili,Georgia,GEO,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,3-6 6-3 3-6 6-4 6-3,FALSE,293
+Marius Copil,Romania,ROU,Benoit Paire,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-7(5) 6-0 6-1,FALSE,293
+Corentin Moutet,France,FRA,Guido Pella,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-1 2-6 7-5,TRUE,292
+Lloyd George Muirhead Harris,South Africa,RSA,Borna Coric,Croatia,CRO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-3 7-6(2),FALSE,292
+Prajnesh Gunneswaran,India,IND,Frances Tiafoe,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,7-6(7) 6-3 6-3,FALSE,292
+Pierre Hugues Herbert,France,FRA,Kevin Anderson,South Africa,RSA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-4 6-2,FALSE,292
+Daniel Evans,United Kingdom,GBR,Fernando Verdasco,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-7(4) 6-3 6-2,FALSE,292
+Marcos Baghdatis,Cyprus,CYP,Mikhail Youzhny,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-4 2-6 3-1 RET,TRUE,292
+Benoit Paire,France,FRA,Dennis Novak,Austria,AUT,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(6) 3-6 7-5 7-6(5),TRUE,292
+Gael Monfils,France,FRA,Dominic Thiem,Austria,AUT,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-4 6-4 6-2,FALSE,291
+Lorenzo Sonego,Italy,ITA,Roger Federer,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 6-4 6-4,FALSE,291
+Nikoloz Basilashvili,Georgia,GEO,Daniel Evans,United Kingdom,GBR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 7-6(2),FALSE,291
+Tennys Sandgren,United States,USA,Novak Djokovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-1 6-3 6-7(2) 6-2,FALSE,291
+David Goffin,Belgium,BEL,Marin Cilic,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R16,7-6(6) 6-2 6-4,FALSE,291
+Jiri Vesely,Czech Republic,CZE,Ryan Harrison,United States,USA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-0 7-5 6-3,FALSE,290
+Richard Gasquet,France,FRA,Novak Djokovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-2 6-3 6-3,FALSE,290
+Taylor Harry Fritz,United States,USA,Jan Lennard Struff,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-3 5-7 7-6(2),FALSE,290
+Yasutaka Uchiyama,Japan,JPN,Tennys Sandgren,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-2 6-4 6-3,FALSE,290
+Pablo Andujar,Spain,ESP,Matteo Berrettini,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-7(3) 6-4 6-4 6-2,FALSE,290
+Gregoire Barrere,France,FRA,Lucas Pouille,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-1 7-6(0) 6-4,FALSE,290
+Ernests Gulbis,Latvia,LAT,Leonardo Mayer,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-1 7-6(12) 6-2,FALSE,289
+Matthew Ebden,Australia,AUS,Diego Sebastian Schwartzman,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 3-6 6-3 6-2,FALSE,289
+Steve Darcis,Belgium,BEL,Roberto Bautista Agut,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 4-2 RET,FALSE,289
+Dominic Thiem,Austria,AUT,Rafael Nadal,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,F,6-3 5-7 6-1 6-1,FALSE,289
+Kyle Edmund,United Kingdom,GBR,Pablo Cuevas,Uruguay,URU,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,7-6(3) 6-3 2-1 RET,FALSE,289
+Robin Haase,Netherlands,NED,Philipp Kohlschreiber,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-4 6-7(5) 6-1,FALSE,289
+Aljaz Bedene,Slovenia,SLO,Borna Coric,Croatia,CRO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-7(4) 6-4 6-4,FALSE,289
+Antonie Hoang,France,FRA,Damir Dzumhur,Bosnia and Herzegovina,BIH,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 0-6 7-6(5) 6-3,TRUE,289
+Roberto Bautista Agut,Spain,ESP,Karen Khachanov,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-4 7-5 6-4,TRUE,288
+Mischa Zverev,Germany,GER,Steve Darcis,Belgium,BEL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-4 6-4,FALSE,288
+Nikoloz Basilashvili,Georgia,GEO,Stefano Travaglia,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,3-6 6-3 3-6 6-4 6-3,TRUE,288
+Dennis Novak,Austria,AUT,Benoit Paire,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(6) 3-6 7-5 7-6(5),FALSE,288
+Malek Jaziri,Tunisia,TUN,Denis Kudla,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-1 6-3,FALSE,288
+John Millman,Australia,AUS,Fabio Fognini,Italy,ITA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-1 4-6 6-4 6-1,TRUE,288
+Frances Tiafoe,United States,USA,Filip Krajinovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 4-6 6-3 3-6 6-0,FALSE,288
+Hugo Dellien,"Bolivia, Plurinational State of",BOL,John Millman,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-3 6-4,FALSE,287
+Jason Kubler,Australia,AUS,Taylor Harry Fritz,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 3-6 6-3 RET,FALSE,287
+Ilya Ivashka,Belarus,BLR,Pablo Carreno Busta,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-2 6-3 7-6(7),FALSE,287
+Alexander Bublik,Russian Federation,RUS,Gregoire Barrere,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-4 6-3 6-3,FALSE,287
+Rafael Nadal,Spain,ESP,David Ferrer,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 3-4 RET,TRUE,287
+Casper Ruud,Norway,NOR,Roger Federer,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 6-1 7-6(8),FALSE,287
+Pablo Andujar,Spain,ESP,Denis Shapovalov,Canada,CAN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-2 6-3 7-6(3),FALSE,286
+Philipp Kohlschreiber,Germany,GER,Nicolas Mahut,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-3 6-3,FALSE,286
+Stefanos Tsitsipas,Greece,GRE,Daniil Medvedev,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 6-3 4-6 6-3,FALSE,286
+Adrian Mannarino,France,FRA,Kevin Anderson,South Africa,RSA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 5-7 6-2 6-1,FALSE,286
+Guido Andreozzi,Argentina,ARG,Stefano Travaglia,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(3) 6-2 6-3 6-2,FALSE,286
+Marcos Baghdatis,Cyprus,CYP,Matteo Berrettini,Italy,ITA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-1 7-6(4) 6-3,FALSE,286
+Marton Fucsovics,Hungary,HUN,Novak Djokovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 3-6 6-4 6-0,FALSE,286
+Bradley Klahn,United States,USA,John Isner,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(3) 6-3 6-4,FALSE,285
+Jordan Thompson,Australia,AUS,Andreas Seppi,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-4 6-4,FALSE,285
+Dennis Novak,Austria,AUT,Marton Fucsovics,Hungary,HUN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-4 7-6(2) 6-2,FALSE,285
+Alexander Zverev,Germany,GER,Milos Raonic,Canada,CAN,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-1 6-1 7-6(5),FALSE,285
+Maximilian Marterer,Germany,GER,Stefanos Tsitsipas,Greece,GRE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 6-2 7-6(4),FALSE,285
+Yuki Bhambri,India,IND,Pierre Hugues Herbert,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(3) 7-5,FALSE,285
+Philipp Kohlschreiber,Germany,GER,Novak Djokovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 7-5 6-3,FALSE,285
+Jordan Thompson,Australia,AUS,Juan Martin Del Potro,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-4 6-4 6-0,FALSE,285
+Radu Albot,"Moldova, Republic of",MDA,Fernando Verdasco,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-1 7-6(2) 6-3,FALSE,284
+Corentin Moutet,France,FRA,Alexey Vatutin,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 7-6(6) 6-4,TRUE,284
+Tomas Berdych,Czech Republic,CZE,Rafael Nadal,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R16,6-0 6-1 7-6(4),FALSE,284
+Oscar Otte,Germany,GER,Roger Federer,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 6-3 6-4,FALSE,284
+Rafael Nadal,Spain,ESP,Yannick Maden,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-2 6-4,TRUE,284
+Salvatore Caruso,Italy,ITA,Novak Djokovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 6-3 6-2,FALSE,284
+Denis Shapovalov,Canada,CAN,Felix Auger Aliassime,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 5-7 4-1 RET,TRUE,283
+Jeremy Chardy,France,FRA,David Goffin,Belgium,BEL,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-2 6-4 6-3,FALSE,283
+Damir Dzumhur,Bosnia and Herzegovina,BIH,Antonie Hoang,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 0-6 7-6(5) 6-3,FALSE,283
+Alejandro Davidovich Fokina,Spain,ESP,Jordan Thompson,Australia,AUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-2 7-6(3),FALSE,283
+Tommy Robredo,Spain,ESP,Stefanos Tsitsipas,Greece,GRE,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 7-6(1) 6-4,FALSE,283
+Roberto Carballes Baena,Spain,ESP,Viktor Troicki,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 1-6 2-6 6-1 6-4,FALSE,283
+Mitchell Krueger,United States,USA,Novak Djokovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-2 6-2,FALSE,282
+Albert Ramos,Spain,ESP,Laslo Djere,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-2 7-6(2),FALSE,282
+Albert Ramos,Spain,ESP,Karen Khachanov,Russian Federation,RUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-2 6-3,FALSE,282
+Jo Wilfried Tsonga,France,FRA,Rafael Nadal,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-2 6-3 6-2,FALSE,282
+Lloyd George Muirhead Harris,South Africa,RSA,Roger Federer,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-1 6-2 6-2,FALSE,282
+Miomir Kecmanovic,Serbia,SRB,David Goffin,Belgium,BEL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-4 6-3,FALSE,281
+Diego Sebastian Schwartzman,Argentina,ARG,Kei Nishikori,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 6-4 5-7 6-1,FALSE,281
+Henri Laaksonen,Switzerland,SUI,Alex De Minaur,Australia,AUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 6-2 6-7(7) 4-6 6-3,FALSE,281
+Yuichi Sugita,Japan,JPN,Rafael Nadal,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-1 6-3,FALSE,281
+Alex De Minaur,Australia,AUS,Rafael Nadal,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-1 6-2 6-4,FALSE,281
+Viktor Troicki,Serbia,SRB,Tennys Sandgren,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-4 6-2,FALSE,281
+Filip Krajinovic,Serbia,SRB,Marco Cecchinato,Italy,ITA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 0-6 6-1 7-6(8) 6-4,TRUE,281
+Kei Nishikori,Japan,JPN,Quentin Halys,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 6-3 6-4,TRUE,281
+Mikhail Kukushkin,Kazakhstan,KAZ,Hyeon Chung,"Korea, Republic of",KOR,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-6(5) 6-2 6-3,TRUE,281
+Guido Andreozzi,Argentina,ARG,Jack Sock,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-0 7-6(4) 6-2,FALSE,280
+Mischa Zverev,Germany,GER,Taylor Harry Fritz,United States,USA,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 2-6 6-4 7-6(2) 6-2,FALSE,280
+Filip Krajinovic,Serbia,SRB,Matthew Ebden,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(1) 6-7(5) 4-6 6-1 4-1 RET,FALSE,280
+Lukas Rosol,Czech Republic,CZE,Lloyd George Muirhead Harris,South Africa,RSA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 4-6 2-6 6-1 6-2,FALSE,280
+Lloyd George Muirhead Harris,South Africa,RSA,Gilles Simon,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 6-3,FALSE,280
+Mirza Basic,Bosnia and Herzegovina,BIH,Dominic Thiem,Austria,AUT,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-1 6-4,FALSE,280
+Thomas Fabbiano,Italy,ITA,Grigor Dimitrov,Bulgaria,BUL,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,7-6(5) 6-4 6-4,FALSE,279
+Andreas Seppi,Italy,ITA,Fabio Fognini,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-0 3-6 6-3,FALSE,279
+Matthew Ebden,Australia,AUS,Gregoire Barrere,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 5-7 7-5 6-1,FALSE,279
+Roger Federer,Switzerland,SUI,Rafael Nadal,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,SF,6-3 6-4 6-2,FALSE,279
+Guido Pella,Argentina,ARG,Guido Andreozzi,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(2) 6-4 1-6 6-1,TRUE,279
+Ruben Bemelmans,Belgium,BEL,Stan Wawrinka,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-2 6-2,FALSE,279
+Malek Jaziri,Tunisia,TUN,Ilya Ivashka,Belarus,BLR,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,4-6 7-6(6) 6-1 4-0 RET,FALSE,279
+Philipp Kohlschreiber,Germany,GER,Kei Nishikori,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-3 6-2 7-5,FALSE,278
+Janko Tipsarevic,Serbia,SRB,Grigor Dimitrov,Bulgaria,BUL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-0 3-6 6-7(4) 6-4,FALSE,278
+Marco Cecchinato,Italy,ITA,Alex De Minaur,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-0 6-4 7-6(5),FALSE,277
+Rafael Nadal,Spain,ESP,Novak Djokovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,F,6-3 6-2 6-3,FALSE,277
+Dominic Thiem,Austria,AUT,Sam Querrey,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-7(4) 7-6(1) 6-3 6-0,FALSE,277
+Mikhail Youzhny,Russian Federation,RUS,Marcos Baghdatis,Cyprus,CYP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-4 2-6 3-1 RET,FALSE,277
+Roberto Bautista Agut,Spain,ESP,Jason Kubler,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-3 6-4,FALSE,277
+Stefano Travaglia,Italy,ITA,Adrian Mannarino,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-7(5) 6-3 3-6 6-2 6-2,FALSE,276
+Benoit Paire,France,FRA,Roger Federer,Switzerland,SUI,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 6-4 6-4,FALSE,276
+David Ferrer,Spain,ESP,Rafael Nadal,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 3-4 RET,FALSE,276
+Benoit Paire,France,FRA,Roberto Bautista Agut,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-3 7-5 6-2,FALSE,276
+Fernando Verdasco,Spain,ESP,Juan Martin Del Potro,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R32,7-5 7-6(6) 6-3,FALSE,275
+Juan Martin Del Potro,Argentina,ARG,Rafael Nadal,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,SF,7-6(3) 6-2 RET,TRUE,275
+Federico Delbonis,Argentina,ARG,Fabio Fognini,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-4 3-6 6-3 6-3,FALSE,275
+James Duckworth,Australia,AUS,Rafael Nadal,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-3 7-5,FALSE,275
+Alexander Zverev,Germany,GER,Novak Djokovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,QF,7-5 6-2 6-2,FALSE,274
+Robin Haase,Netherlands,NED,David Goffin,Belgium,BEL,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 6-7(1) 6-3 6-2,FALSE,274
+Alex Bolt,Australia,AUS,Alexander Zverev,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-3 6-3 6-2,FALSE,274
+Karen Khachanov,Russian Federation,RUS,Dominic Thiem,Austria,AUT,5/26/2019,Roland Garros,G,5,C,FALSE,48,QF,6-2 6-4 6-2,FALSE,274
+Ugo Humbert,France,FRA,Novak Djokovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-3 6-2 6-3,FALSE,274
+Matthew Ebden,Australia,AUS,Rafael Nadal,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-2 6-2,FALSE,273
+Maximilian Marterer,Germany,GER,Kei Nishikori,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 6-3,FALSE,272
+Radu Albot,"Moldova, Republic of",MDA,Jan Lennard Struff,Germany,GER,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-4 6-3 6-2,FALSE,272
+Yoshihito Nishioka,Japan,JPN,Roger Federer,Switzerland,SUI,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 6-4,FALSE,272
+Steve Johnson,United States,USA,Kei Nishikori,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R32,6-4 6-3 6-2,FALSE,272
+Hugo Dellien,"Bolivia, Plurinational State of",BOL,Stefanos Tsitsipas,Greece,GRE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,4-6 6-0 6-3 7-5,FALSE,272
+Pablo Cuevas,Uruguay,URU,Dominic Thiem,Austria,AUT,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 4-6 6-2 7-5,FALSE,272
+Julien Benneteau,France,FRA,Jan Lennard Struff,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 4-6 6-1 3-6 6-3,FALSE,271
+Taro Daniel,Japan,JPN,Denis Shapovalov,Canada,CAN,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 7-6(2) 6-3,FALSE,271
+Yoshihito Nishioka,Japan,JPN,Karen Khachanov,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-3 6-3,FALSE,271
+Marton Fucsovics,Hungary,HUN,Dennis Novak,Austria,AUT,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,3-6 6-4 7-6(2) 6-2,TRUE,271
+Mikhail Kukushkin,Kazakhstan,KAZ,John Millman,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 4-6 6-1 6-3,FALSE,270
+Bernard Tomic,Australia,AUS,Taylor Harry Fritz,United States,USA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-4 6-1,FALSE,270
+Adrian Mannarino,France,FRA,Gael Monfils,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-4 6-4,FALSE,270
+Roberto Carballes Baena,Spain,ESP,Borna Coric,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-6(4) 6-2 6-3,FALSE,270
+Dominik Koepfer,Germany,GER,Diego Sebastian Schwartzman,Argentina,ARG,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-0 6-3 7-5,FALSE,270
+Benoit Paire,France,FRA,Kei Nishikori,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-2 6-7(8) 6-2 6-7(8) 6-2,FALSE,269
+Bernard Tomic,Australia,AUS,Jo Wilfried Tsonga,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-2 6-1 6-4,FALSE,269
+Federico Delbonis,Argentina,ARG,Diego Sebastian Schwartzman,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 7-6(6) 6-2,FALSE,269
+Daniil Medvedev,Russian Federation,RUS,Borna Coric,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-3 7-5 6-2,FALSE,269
+Leonardo Mayer,Argentina,ARG,Roger Federer,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-2 6-3 6-3,FALSE,269
+Marton Fucsovics,Hungary,HUN,Diego Sebastian Schwartzman,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 3-6 7-6(7) 2-6 6-2,FALSE,268
+Vasek Pospisil,Canada,CAN,Rafael Nadal,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-3 6-4 6-2,FALSE,268
+Laslo Djere,Serbia,SRB,Evgeny Donskoy,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-7(5) 6-4 6-1 7-6(5),FALSE,268
+Gilles Simon,France,FRA,Salvatore Caruso,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-2 6-4,FALSE,268
+Fabio Fognini,Italy,ITA,Roberto Bautista Agut,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,7-6(5) 6-4 4-6 6-1,TRUE,267
+Joao Sousa,Portugal,POR,Kei Nishikori,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,7-6(6) 6-1 6-2,FALSE,267
+Pablo Carreno Busta,Spain,ESP,Benoit Paire,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-2 4-6 7-6(1) RET,FALSE,266
+Roberto Bautista Agut,Spain,ESP,Fabio Fognini,Italy,ITA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,7-6(5) 6-4 4-6 6-1,FALSE,266
+Peter Gojowczyk,Germany,GER,Roberto Bautista Agut,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-3 6-2 6-3,FALSE,266
+Gilles Simon,France,FRA,Tennys Sandgren,United States,USA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-2 6-3 4-6 3-6 8-6,FALSE,266
+Casper Ruud,Norway,NOR,Guido Pella,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-4 6-1,FALSE,266
+Felix Auger Aliassime,Canada,CAN,Denis Shapovalov,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 5-7 4-1 RET,FALSE,266
+Henri Laaksonen,Switzerland,SUI,Novak Djokovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-4 6-3,FALSE,266
+Fabio Fognini,Italy,ITA,Pablo Carreno Busta,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-2 6-4 2-6 6-4,FALSE,265
+Dusan Lajovic,Serbia,SRB,Pablo Cuevas,Uruguay,URU,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 7-5 6-1,FALSE,265
+Mikhail Kukushkin,Kazakhstan,KAZ,Lucas Pouille,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 7-5 6-4,FALSE,265
+Juan Ignacio Londero,Argentina,ARG,Rafael Nadal,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-2 6-3 6-3,FALSE,265
+David Goffin,Belgium,BEL,Daniil Medvedev,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-2 7-6(3) 6-3,FALSE,264
+Alexander Zverev,Germany,GER,Philipp Kohlschreiber,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-7(1) 6-4 6-1 6-3,FALSE,264
+Steve Johnson,United States,USA,Roberto Bautista Agut,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-4 6-2,FALSE,264
+Diego Sebastian Schwartzman,Argentina,ARG,Marton Fucsovics,Hungary,HUN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 3-6 7-6(7) 2-6 6-2,TRUE,264
+Stefanos Tsitsipas,Greece,GRE,Rafael Nadal,Spain,ESP,1/14/2019,Australian Open,G,5,H,FALSE,85,SF,6-2 6-4 6-0,FALSE,264
+Zhe Li,China,CHN,Philipp Kohlschreiber,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-2 6-2 6-4,FALSE,262
+Damir Dzumhur,Bosnia and Herzegovina,BIH,Dusan Lajovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R128,3-6 6-1 6-3 6-4,FALSE,262
+Marton Fucsovics,Hungary,HUN,Borna Coric,Croatia,CRO,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-4 6-3 6-4,FALSE,262
+Andy Murray,United Kingdom,GBR,Fernando Verdasco,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 2-6 6-4 6-4,FALSE,261
+Michael Mmoh,United States,USA,Radu Albot,"Moldova, Republic of",MDA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 6-3 6-4 6-2,FALSE,260
+Kamil Majchrzak,Poland,POL,Kei Nishikori,Japan,JPN,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 6-7(6) 6-0 6-2 3-0 RET,FALSE,260
+Guido Pella,Argentina,ARG,Corentin Moutet,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-1 2-6 7-5,FALSE,259
+Antonie Hoang,France,FRA,Gael Monfils,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-3 6-2 6-3,FALSE,259
+Jan Lennard Struff,Germany,GER,David Goffin,Belgium,BEL,8/27/2018,US Open,G,5,H,FALSE,61,R32,6-4 6-1 7-6(4),FALSE,258
+Jenson Brooksby,United States,USA,John Millman,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-2 6-0,FALSE,258
+Frances Tiafoe,United States,USA,Alex De Minaur,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 6-0 5-7 6-2,FALSE,257
+Marcel Granollers,Spain,ESP,Marius Copil,Romania,ROU,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-4 6-4,FALSE,257
+Ernests Gulbis,Latvia,LAT,Stan Wawrinka,Switzerland,SUI,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,3-6 3-1 RET,FALSE,257
+Andrey Rublev,Russian Federation,RUS,Jeremy Chardy,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 4-6 6-4 6-1,FALSE,257
+Christian Garin,Chile,CHI,Stan Wawrinka,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-4 6-0,FALSE,257
+Kyle Edmund,United Kingdom,GBR,Tomas Berdych,Czech Republic,CZE,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-0 7-5,FALSE,256
+Yuichi Sugita,Japan,JPN,Richard Gasquet,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-1 6-3,FALSE,256
+Matthew Ebden,Australia,AUS,Philipp Kohlschreiber,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-7(1) 6-3 6-2 6-0,FALSE,256
+Thomas Fabbiano,Italy,ITA,Marin Cilic,Croatia,CRO,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 7-5 6-1,FALSE,256
+Joao Sousa,Portugal,POR,Pablo Carreno Busta,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-1 6-2,FALSE,255
+Kimmer Coppejans,Belgium,BEL,Yannick Maden,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(0) 7-5 6-3,FALSE,255
+Robin Haase,Netherlands,NED,Tomas Berdych,Czech Republic,CZE,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-1 6-3 6-3,FALSE,254
+Corentin Moutet,France,FRA,Nicolas Mahut,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 7-5 5-7 6-4,FALSE,254
+Taylor Harry Fritz,United States,USA,Roberto Bautista Agut,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-2 6-3 6-2,FALSE,254
+Hubert Hurkacz,Poland,POL,Novak Djokovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-2 6-2,FALSE,254
+Denis Shapovalov,Canada,CAN,Novak Djokovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,R32,6-3 6-4 4-6 6-0,FALSE,254
+Ryan Harrison,United States,USA,Daniil Medvedev,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R64,6-3 6-3 6-3,FALSE,253
+Jan Lennard Struff,Germany,GER,Novak Djokovic,Serbia,SRB,5/26/2019,Roland Garros,G,5,C,FALSE,48,R16,6-3 6-2 6-2,FALSE,253
+Peter Polansky,Canada,CAN,Alexander Zverev,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-1 6-2,FALSE,253
+Jay Clarke,United Kingdom,GBR,Roger Federer,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-1 7-6(3) 6-2,FALSE,252
+Paul Jubb,United Kingdom,GBR,Joao Sousa,Portugal,POR,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-0 6-3 6-7(8) 6-1,FALSE,252
+Peter Gojowczyk,Germany,GER,Jo Wilfried Tsonga,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(4) 6-1 4-6 6-3,FALSE,251
+Gael Monfils,France,FRA,Kei Nishikori,Japan,JPN,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 5-4 RET,FALSE,251
+Jaume Munar,Spain,ESP,Diego Sebastian Schwartzman,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 6-0 5-7 6-2,FALSE,251
+Alex De Minaur,Australia,AUS,Pablo Carreno Busta,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-3 6-1 6-1,FALSE,251
+Joao Sousa,Portugal,POR,Rafael Nadal,Spain,ESP,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-2 6-2 6-2,FALSE,250
+Laslo Djere,Serbia,SRB,John Millman,Australia,AUS,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 6-1,FALSE,250
+Alexandre Muller,France,FRA,Roberto Carballes Baena,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-4 6-2,FALSE,249
+Taro Daniel,Japan,JPN,Gael Monfils,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-4 6-1,FALSE,246
+Rudolf Molleker,Germany,GER,Diego Sebastian Schwartzman,Argentina,ARG,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 6-3 4-6 6-0,FALSE,245
+Yannick Hanfmann,Germany,GER,Rafael Nadal,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 6-1 6-3,FALSE,245
+Malek Jaziri,Tunisia,TUN,Oscar Otte,Germany,GER,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-1 4-6 6-0,FALSE,245
+Cedrik Marcel Stebe,Germany,GER,Karen Khachanov,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-1 6-4,FALSE,245
+Salvatore Caruso,Italy,ITA,Gilles Simon,France,FRA,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,7-6(7) 6-3 6-2,FALSE,244
+Joao Sousa,Portugal,POR,Novak Djokovic,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R16,6-3 6-4 6-3,FALSE,244
+Lloyd George Muirhead Harris,South Africa,RSA,Daniil Medvedev,Russian Federation,RUS,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-1 6-2 6-1,FALSE,244
+Donald Young,United States,USA,Juan Martin Del Potro,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-0 6-3 6-4,FALSE,243
+Leonardo Mayer,Argentina,ARG,Laslo Djere,Serbia,SRB,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-4 6-4 4-6 2-1 RET,FALSE,243
+Kei Nishikori,Japan,JPN,Rafael Nadal,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,QF,6-1 6-1 6-3,FALSE,241
+Noah Rubin,United States,USA,Mikhail Kukushkin,Kazakhstan,KAZ,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-3 6-1 4-6 7-6(3),FALSE,241
+Feliciano Lopez,Spain,ESP,Fernando Verdasco,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 7-5 6-4,FALSE,239
+Lukas Lacko,Slovakia,SVK,Vasek Pospisil,Canada,CAN,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 6-3 6-2,FALSE,239
+Nikoloz Basilashvili,Georgia,GEO,Juan Ignacio Londero,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-1 6-3,FALSE,238
+Blaz Rola,Slovenia,SLO,Mikael Ymer,Sweden,SWE,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-3 7-6(5),FALSE,238
+Ricardas Berankis,Lithuania,LTU,Hyeon Chung,"Korea, Republic of",KOR,8/27/2018,US Open,G,5,H,FALSE,61,R128,4-6 7-6(6) 6-0 2-0 RET,FALSE,238
+Alexey Vatutin,Russian Federation,RUS,Corentin Moutet,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 7-6(6) 6-4,FALSE,238
+Gleb Sakharov,France,FRA,Maximilian Marterer,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-3 6-1 6-3,FALSE,238
+Nicolas Mahut,France,FRA,Alexander Zverev,Germany,GER,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-4 6-4 6-2,FALSE,237
+Facundo Bagnis,Argentina,ARG,Gael Monfils,France,FRA,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-6(4) 3-6 6-0 6-0,FALSE,237
+Quentin Halys,France,FRA,Kei Nishikori,Japan,JPN,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 6-3 6-4,FALSE,237
+Denis Kudla,United States,USA,Novak Djokovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-3 6-2 6-2,FALSE,237
+Aljaz Bedene,Slovenia,SLO,Alexander Zverev,Germany,GER,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-4 6-1 6-4,FALSE,236
+Jiri Vesely,Czech Republic,CZE,Leonardo Mayer,Argentina,ARG,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,7-6(3) 6-3 6-0,FALSE,233
+Christian Garin,Chile,CHI,David Goffin,Belgium,BEL,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-0 6-2 6-2,FALSE,233
+Malek Jaziri,Tunisia,TUN,Pablo Carreno Busta,Spain,ESP,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 6-2 6-2,FALSE,233
+Maxime Janvier,France,FRA,Pablo Cuevas,Uruguay,URU,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-4 6-4 6-2,FALSE,232
+Prajnesh Gunneswaran,India,IND,Hugo Dellien,"Bolivia, Plurinational State of",BOL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-3 6-1,FALSE,231
+Cameron Norrie,United Kingdom,GBR,Kei Nishikori,Japan,JPN,7/1/2019,Wimbledon,G,5,G,FALSE,76,R64,6-4 6-4 6-0,FALSE,231
+Marcel Granollers,Spain,ESP,Joao Sousa,Portugal,POR,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-2 6-2 6-3,FALSE,230
+Hyeon Chung,"Korea, Republic of",KOR,Mikhail Kukushkin,Kazakhstan,KAZ,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-6(5) 6-2 6-3,FALSE,229
+Lucas Pouille,France,FRA,Novak Djokovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,SF,6-0 6-2 6-2,FALSE,227
+Cameron Norrie,United Kingdom,GBR,Elliot Benchetrit,France,FRA,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-3 6-0 6-2,FALSE,227
+Yannick Maden,Germany,GER,Rafael Nadal,Spain,ESP,5/26/2019,Roland Garros,G,5,C,FALSE,48,R64,6-1 6-2 6-4,FALSE,225
+Pedro Martinez Portero,Spain,ESP,Henri Laaksonen,Switzerland,SUI,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-1 6-0 7-6(4),FALSE,224
+Martin Klizan,Slovakia,SVK,Karen Khachanov,Russian Federation,RUS,5/26/2019,Roland Garros,G,5,C,FALSE,48,R32,6-1 6-4 6-3,FALSE,221
+Damir Dzumhur,Bosnia and Herzegovina,BIH,Gael Monfils,France,FRA,1/14/2019,Australian Open,G,5,H,FALSE,85,R128,6-0 6-4 6-0,FALSE,220
+Fabio Fognini,Italy,ITA,John Millman,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-1 4-6 6-4 6-1,FALSE,218
+Ernests Gulbis,Latvia,LAT,Casper Ruud,Norway,NOR,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-2 7-6(2) 6-0,FALSE,216
+David Goffin,Belgium,BEL,Novak Djokovic,Serbia,SRB,7/1/2019,Wimbledon,G,5,G,FALSE,76,QF,6-4 6-0 6-2,FALSE,215
+Marius Copil,Romania,ROU,Marin Cilic,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R128,7-5 6-1 1-1 RET,FALSE,213
+Jozef Kovalik,Slovakia,SVK,Robin Haase,Netherlands,NED,7/1/2019,Wimbledon,G,5,G,FALSE,76,R128,6-1 6-3 6-1,FALSE,212
+Paolo Lorenzi,Italy,ITA,Guido Pella,Argentina,ARG,8/27/2018,US Open,G,5,H,FALSE,61,R64,7-5 6-0 6-2,FALSE,212
+Matteo Berrettini,Italy,ITA,Roger Federer,Switzerland,SUI,7/1/2019,Wimbledon,G,5,G,FALSE,76,R16,6-1 6-2 6-2,FALSE,208
+Hubert Hurkacz,Poland,POL,Marin Cilic,Croatia,CRO,8/27/2018,US Open,G,5,H,FALSE,61,R64,6-2 6-0 6-0,FALSE,191
+Kei Nishikori,Japan,JPN,Novak Djokovic,Serbia,SRB,1/14/2019,Australian Open,G,5,H,FALSE,85,QF,6-1 4-1 RET,FALSE,181
+Taro Daniel,Japan,JPN,Alex De Minaur,Australia,AUS,8/27/2018,US Open,G,5,H,FALSE,61,R128,6-0 6-1 6-2,FALSE,181
+Ricardas Berankis,Lithuania,LTU,David Goffin,Belgium,BEL,5/26/2019,Roland Garros,G,5,C,FALSE,48,R128,6-0 6-2 6-2,FALSE,175
