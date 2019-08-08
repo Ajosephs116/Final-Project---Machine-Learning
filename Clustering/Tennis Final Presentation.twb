@@ -1,0 +1,695 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20192.19.0718.1543                               -->
+<workbook original-version='18.1' source-build='2019.2.2 (20192.19.0718.1543)' version='18.1' xml:base='http://localhost:8007' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <repository-location id='TennisFinalPresentation' path='/t/NAMRFinance/workbooks' revision='1.0' site='NAMRFinance' />
+  <preferences />
+  <datasources>
+    <datasource caption='Tennis Data for Alteryx Training - Final' inline='true' name='sqlproxy.0in0rgk1iv4goo137jypo0t77uk5' version='18.1'>
+      <repository-location id='TennisDataforAlteryxTraining-Final' path='/t/NAMRFinance/datasources' revision='1.2' site='NAMRFinance' />
+      <connection channel='https' class='sqlproxy' dbname='TennisDataforAlteryxTraining-Final' directory='dataserver' port='443' server='tableau.bcg.com' server-ds-friendly-name='Tennis Data for Alteryx Training - Final' username=''>
+        <relation name='sqlproxy' table='[sqlproxy]' type='table' />
+        <calculations>
+          <calculation column='[Number of Records]' formula='1' />
+        </calculations>
+        <metadata-records>
+          <metadata-record class='measure'>
+            <remote-name>Aces Percentage</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Aces Percentage]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Aces Percentage</remote-alias>
+            <ordinal>4</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Aces</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Aces]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Aces</remote-alias>
+            <ordinal>3</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Cluster</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Cluster]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Cluster</remote-alias>
+            <ordinal>9</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Inferred Playstyle</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Inferred Playstyle]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Inferred Playstyle</remote-alias>
+            <ordinal>11</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='integer' name='field-type'>2</attribute>
+              <attribute datatype='integer' name='role'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Number of Records</remote-name>
+            <remote-type>-1</remote-type>
+            <local-name>[Number of Records]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Number of Records</remote-alias>
+            <ordinal>14</ordinal>
+            <layered>true</layered>
+            <caption>Number of Records</caption>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+              <attribute datatype='string' name='formula'>&quot;1&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Player Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Player Name]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Player Name</remote-alias>
+            <ordinal>0</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='integer' name='field-type'>2</attribute>
+              <attribute datatype='integer' name='role'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Server Rating</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Server Rating]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Server Rating</remote-alias>
+            <ordinal>5</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Surface</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Surface]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Surface</remote-alias>
+            <ordinal>2</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='integer' name='field-type'>2</attribute>
+              <attribute datatype='integer' name='role'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Total Games Played</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total Games Played]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Total Games Played</remote-alias>
+            <ordinal>7</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Total Games Won</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total Games Won]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Total Games Won</remote-alias>
+            <ordinal>8</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Total Points Won</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total Points Won]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Total Points Won</remote-alias>
+            <ordinal>6</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Tournament</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Tournament]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Tournament</remote-alias>
+            <ordinal>1</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <attributes>
+              <attribute datatype='integer' name='field-type'>2</attribute>
+              <attribute datatype='integer' name='role'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='measure'>
+            <remote-name>Winners/UFE Ratio</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Winners/UFE Ratio]</local-name>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias>Winners/UFE Ratio</remote-alias>
+            <ordinal>10</ordinal>
+            <layered>true</layered>
+            <family>Extract</family>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='field-type'>0</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[sqlproxy]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='boolean' name='CAP_CREATE_TEMP_TABLES'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_BLENDING_ALWAYS_USE_LOCAL_MAPPING_TABLES'>false</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_BLENDING_PREFER_LOCAL_MAPPING_TABLES'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_BLENDING_REMOTE_MAPPING_TABLES'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_CASE_INSENSITIVE_CONTAINS'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_EXTRACT_RANGES'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_SORT_BY'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_SUBQUERIES'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_SUBQUERY_QUERY_CONTEXT'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_SUPPORTS_LODJOINS'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_SUPPORT_ANALYTIC_FUNCTIONS'>true</attribute>
+              <attribute datatype='boolean' name='CAP_QUERY_USE_QUERY_FUSION'>true</attribute>
+              <attribute datatype='boolean' name='CAP_SUPPORTS_SPLIT_FROM_LEFT'>true</attribute>
+              <attribute datatype='boolean' name='CAP_SUPPORTS_SPLIT_FROM_RIGHT'>true</attribute>
+              <attribute datatype='integer' name='charset'>0</attribute>
+              <attribute datatype='string' name='collation'>&quot;binary&quot;</attribute>
+              <attribute datatype='string' name='datasource'>&quot;&lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos; ?&gt;&#10;&#10;&lt;datasource :source-version=&apos;18.1&apos; formatted-name=&apos;Tennis Data for Alteryx Training - Final&apos; inline=&apos;true&apos; version=&apos;18.1&apos; xml:base=&apos;https://tableau.bcg.com&apos; xmlns:user=&apos;http://www.tableausoftware.com/xml/user&apos;&gt;&#10;  &lt;repository-location id=&apos;TennisDataforAlteryxTraining-Final&apos; path=&apos;/t/NAMRFinance/datasources&apos; revision=&apos;1.2&apos; site=&apos;NAMRFinance&apos; /&gt;&#10;  &lt;connection channel=&apos;http&apos; class=&apos;sqlproxy&apos; dbname=&apos;TennisDataforAlteryxTraining-Final&apos; directory=&apos;dataserver&apos; port=&apos;80&apos; server=&apos;localhost&apos;&gt;&#10;    &lt;relation name=&apos;sqlproxy&apos; table=&apos;[sqlproxy]&apos; type=&apos;table&apos; /&gt;&#10;    &lt;cols&gt;&#10;      &lt;map key=&apos;[Aces Percentage]&apos; value=&apos;[sqlproxy].[Aces Percentage]&apos; /&gt;&#10;      &lt;map key=&apos;[Aces]&apos; value=&apos;[sqlproxy].[Aces]&apos; /&gt;&#10;      &lt;map key=&apos;[Cluster]&apos; value=&apos;[sqlproxy].[Cluster]&apos; /&gt;&#10;      &lt;map key=&apos;[Inferred Playstyle]&apos; value=&apos;[sqlproxy].[Inferred Playstyle]&apos; /&gt;&#10;      &lt;map key=&apos;[Number of Records]&apos; value=&apos;[sqlproxy].[Number of Records]&apos; /&gt;&#10;      &lt;map key=&apos;[Player Name]&apos; value=&apos;[sqlproxy].[Player Name]&apos; /&gt;&#10;      &lt;map key=&apos;[Server Rating]&apos; value=&apos;[sqlproxy].[Server Rating]&apos; /&gt;&#10;      &lt;map key=&apos;[Surface]&apos; value=&apos;[sqlproxy].[Surface]&apos; /&gt;&#10;      &lt;map key=&apos;[Total Games Played]&apos; value=&apos;[sqlproxy].[Total Games Played]&apos; /&gt;&#10;      &lt;map key=&apos;[Total Games Won]&apos; value=&apos;[sqlproxy].[Total Games Won]&apos; /&gt;&#10;      &lt;map key=&apos;[Total Points Won]&apos; value=&apos;[sqlproxy].[Total Points Won]&apos; /&gt;&#10;      &lt;map key=&apos;[Tournament]&apos; value=&apos;[sqlproxy].[Tournament]&apos; /&gt;&#10;      &lt;map key=&apos;[Winners/UFE Ratio]&apos; value=&apos;[sqlproxy].[Winners/UFE Ratio]&apos; /&gt;&#10;    &lt;/cols&gt;&#10;  &lt;/connection&gt;&#10;  &lt;column aggregation=&apos;Sum&apos; datatype=&apos;integer&apos; default-type=&apos;quantitative&apos; name=&apos;[Number of Records]&apos; pivot=&apos;key&apos; role=&apos;measure&apos; type=&apos;quantitative&apos; user-datatype=&apos;integer&apos; user:auto-column=&apos;numrec&apos; visual-totals=&apos;Default&apos;&gt;&#10;    &lt;calculation class=&apos;tableau&apos; formula=&apos;1&apos; /&gt;&#10;  &lt;/column&gt;&#10;  &lt;layout dim-ordering=&apos;alphabetic&apos; dim-percentage=&apos;0.5&apos; measure-ordering=&apos;alphabetic&apos; measure-percentage=&apos;0.4&apos; show-structure=&apos;true&apos; /&gt;&#10;&lt;/datasource&gt;&#10;&quot;</attribute>
+              <attribute datatype='string' name='dialect-definition'>&quot;&lt;dialect-definition&gt;&#10;  &lt;primary-dialect class=&apos;hyper&apos; version=&apos;0.0.0&apos;&gt;&#10;  &lt;/primary-dialect&gt;&#10;  &lt;overlay-dialect-set&gt;&#10;    &lt;overlay-dialect class=&apos;vizengine&apos; version=&apos;0.1.0&apos;&gt;&#10;    &lt;/overlay-dialect&gt;&#10;  &lt;/overlay-dialect-set&gt;&#10;&lt;/dialect-definition&gt;&#10;&quot;</attribute>
+              <attribute datatype='boolean' name='extract-active'>false</attribute>
+              <attribute datatype='boolean' name='fast-get-server-time'>true</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <overridable-settings>
+        <date-options fiscal-year-start='january' start-of-week='sunday' />
+        <default-date-format />
+      </overridable-settings>
+      <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Aces Percentage]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+      <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Aces]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+      <column aggregation='Sum' datatype='real' default-type='ordinal' layered='true' name='[Cluster]' pivot='key' role='dimension' type='ordinal' user-datatype='real' visual-totals='Default' />
+      <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Inferred Playstyle]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+      <column aggregation='Sum' datatype='integer' default-type='quantitative' layered='true' name='[Number of Records]' pivot='key' role='measure' type='quantitative' user-datatype='integer' user:auto-column='numrec' visual-totals='Default'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Player Name]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+      <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Server Rating]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+      <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Surface]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+      <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Total Games Played]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+      <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Total Games Won]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+      <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Total Points Won]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+      <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Tournament]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+      <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Winners/UFE Ratio]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+      <column-instance column='[Aces]' derivation='Avg' name='[avg:Aces:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Server Rating]' derivation='Avg' name='[avg:Server Rating:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Winners/UFE Ratio]' derivation='Avg' name='[avg:Winners/UFE Ratio:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Cluster]' derivation='None' name='[none:Cluster:ok]' pivot='key' type='ordinal' />
+      <column-instance column='[Inferred Playstyle]' derivation='None' name='[none:Inferred Playstyle:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Aces]' derivation='Sum' name='[sum:Aces:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Server Rating]' derivation='Sum' name='[sum:Server Rating:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Winners/UFE Ratio]' derivation='Sum' name='[sum:Winners/UFE Ratio:qk]' pivot='key' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.5' measure-ordering='alphabetic' measure-percentage='0.4' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Cluster:ok]' palette='red_gold_10_0' type='palette'>
+            <map to='#b71d3e'>
+              <bucket>3.0</bucket>
+            </map>
+            <map to='#bb243e'>
+              <bucket>2.5</bucket>
+            </map>
+            <map to='#bf2b3f'>
+              <bucket>2.3333333333333299</bucket>
+            </map>
+            <map to='#c43241'>
+              <bucket>2.0</bucket>
+            </map>
+            <map to='#c83841'>
+              <bucket>1.8333333333333299</bucket>
+            </map>
+            <map to='#cd3e43'>
+              <bucket>1.75</bucket>
+            </map>
+            <map to='#d14544'>
+              <bucket>1.6666666666666701</bucket>
+            </map>
+            <map to='#d54b44'>
+              <bucket>1.5</bucket>
+            </map>
+            <map to='#d95146'>
+              <bucket>1.4285714285714299</bucket>
+            </map>
+            <map to='#dd5647'>
+              <bucket>1.4166666666666701</bucket>
+            </map>
+            <map to='#e15c48'>
+              <bucket>1.3333333333333299</bucket>
+            </map>
+            <map to='#e46248'>
+              <bucket>1.25</bucket>
+            </map>
+            <map to='#e86949'>
+              <bucket>1.2</bucket>
+            </map>
+            <map to='#eb6f49'>
+              <bucket>1.1666666666666701</bucket>
+            </map>
+            <map to='#ef7549'>
+              <bucket>1.1111111111111101</bucket>
+            </map>
+            <map to='#f27b4a'>
+              <bucket>1.0</bucket>
+            </map>
+            <map to='#f4814a'>
+              <bucket>0.90000000000000002</bucket>
+            </map>
+            <map to='#f4c961'>
+              <bucket>0.33333333333333298</bucket>
+            </map>
+            <map to='#f4d166'>
+              <bucket>0.0</bucket>
+            </map>
+            <map to='#f5c25c'>
+              <bucket>0.40000000000000002</bucket>
+            </map>
+            <map to='#f6884a'>
+              <bucket>0.85714285714285698</bucket>
+            </map>
+            <map to='#f6b354'>
+              <bucket>0.59999999999999998</bucket>
+            </map>
+            <map to='#f6ba57'>
+              <bucket>0.5</bucket>
+            </map>
+            <map to='#f8ac51'>
+              <bucket>0.66666666666666696</bucket>
+            </map>
+            <map to='#f98f4c'>
+              <bucket>0.80000000000000004</bucket>
+            </map>
+            <map to='#f99d4f'>
+              <bucket>0.71428571428571397</bucket>
+            </map>
+            <map to='#f9a44f'>
+              <bucket>0.69999999999999996</bucket>
+            </map>
+            <map to='#fa964d'>
+              <bucket>0.75</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#2c5985'>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Server Rating:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[sum:Server Rating:qk]&quot;</bucket>
+            </map>
+            <map to='#bce4d8'>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Aces:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[sum:Aces:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Winners/UFE Ratio:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[sum:Winners/UFE Ratio:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Inferred Playstyle:nk]' palette='blue_teal_10_0' type='palette'>
+            <map to='#2c5985'>
+              <bucket>&quot;Aggressive Baseliner&quot;</bucket>
+            </map>
+            <map to='#358ead'>
+              <bucket>&quot;All Court&quot;</bucket>
+            </map>
+            <map to='#7ec1ca'>
+              <bucket>&quot;Defensive Baseliner&quot;</bucket>
+            </map>
+            <map to='#bce4d8'>
+              <bucket>&quot;Serve and Volleyer&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Points and Games Won'>
+      <repository-location id='PointsandGamesWon' path='/t/NAMRFinance/workbooks/TennisFinalPresentation' revision='' site='NAMRFinance' />
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Tennis Data for Alteryx Training - Final' name='sqlproxy.0in0rgk1iv4goo137jypo0t77uk5' />
+          </datasources>
+          <datasource-dependencies datasource='sqlproxy.0in0rgk1iv4goo137jypo0t77uk5'>
+            <column aggregation='Sum' datatype='real' default-type='ordinal' layered='true' name='[Cluster]' pivot='key' role='dimension' type='ordinal' user-datatype='real' visual-totals='Default' />
+            <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Inferred Playstyle]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+            <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Player Name]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+            <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Total Games Won]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+            <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Total Points Won]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+            <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Winners/UFE Ratio]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+            <column-instance column='[Cluster]' derivation='None' name='[none:Cluster:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Inferred Playstyle]' derivation='None' name='[none:Inferred Playstyle:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Player Name]' derivation='None' name='[none:Player Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Total Games Won]' derivation='Sum' name='[sum:Total Games Won:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Total Points Won]' derivation='Sum' name='[sum:Total Points Won:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Winners/UFE Ratio]' derivation='Sum' name='[sum:Winners/UFE Ratio:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='4' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Player Name:nk]' />
+              <lod column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Cluster:ok]' />
+              <color column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]' />
+              <lod column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[sum:Winners/UFE Ratio:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.3631999492645264' />
+                <format attr='shape' value=':filled/circle' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[sum:Total Points Won:qk]</rows>
+        <cols>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[sum:Total Games Won:qk]</cols>
+      </table>
+      <simple-id uuid='{DD4DF1D7-8C7B-45D1-A131-E861D4B862BC}' />
+    </worksheet>
+    <worksheet name='Serving Stats by Playstyle'>
+      <repository-location id='ServingStatsbyPlaystyle' path='/t/NAMRFinance/workbooks/TennisFinalPresentation' revision='' site='NAMRFinance' />
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Tennis Data for Alteryx Training - Final' name='sqlproxy.0in0rgk1iv4goo137jypo0t77uk5' />
+          </datasources>
+          <datasource-dependencies datasource='sqlproxy.0in0rgk1iv4goo137jypo0t77uk5'>
+            <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Aces]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+            <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Inferred Playstyle]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+            <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Server Rating]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+            <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Winners/UFE Ratio]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+            <column-instance column='[Aces]' derivation='Avg' name='[avg:Aces:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Server Rating]' derivation='Avg' name='[avg:Server Rating:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Winners/UFE Ratio]' derivation='Avg' name='[avg:Winners/UFE Ratio:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Inferred Playstyle]' derivation='None' name='[none:Inferred Playstyle:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Aces]' derivation='Sum' name='[sum:Aces:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Aces:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Server Rating:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[sum:Aces:qk]&quot;</bucket>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Winners/UFE Ratio:qk]&quot;</bucket>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Aces:qk]&quot;</bucket>
+              <bucket>&quot;[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Server Rating:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[:Measure Names]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[Multiple Values]</rows>
+        <cols>([sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk] / [sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[:Measure Names])</cols>
+      </table>
+      <simple-id uuid='{64131970-031F-41F7-9D86-692F2A9AE791}' />
+    </worksheet>
+    <worksheet name='Winners/Unforced Errors by Playstyle'>
+      <repository-location id='WinnersUnforcedErrorsbyPlaystyle' path='/t/NAMRFinance/workbooks/TennisFinalPresentation' revision='' site='NAMRFinance' />
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Tennis Data for Alteryx Training - Final' name='sqlproxy.0in0rgk1iv4goo137jypo0t77uk5' />
+          </datasources>
+          <datasource-dependencies datasource='sqlproxy.0in0rgk1iv4goo137jypo0t77uk5'>
+            <column aggregation='Count' datatype='string' default-type='nominal' layered='true' name='[Inferred Playstyle]' pivot='key' role='dimension' type='nominal' user-datatype='string' visual-totals='Default' />
+            <column aggregation='Sum' datatype='real' default-type='quantitative' layered='true' name='[Winners/UFE Ratio]' pivot='key' role='measure' type='quantitative' user-datatype='real' visual-totals='Default' />
+            <column-instance column='[Winners/UFE Ratio]' derivation='Avg' name='[avg:Winners/UFE Ratio:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Inferred Playstyle]' derivation='None' name='[none:Inferred Playstyle:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Winners/UFE Ratio:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]</rows>
+        <cols>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[avg:Winners/UFE Ratio:qk]</cols>
+      </table>
+      <simple-id uuid='{F6E2963C-0445-4AFF-A669-AAC3705A5F67}' />
+    </worksheet>
+  </worksheets>
+  <windows>
+    <window class='worksheet' name='Points and Games Won'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'>
+            <card type='columns' />
+          </strip>
+          <strip size='31'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Cluster:ok]</field>
+            <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]</field>
+            <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Player Name:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{524A8952-6B21-4EDF-9926-90AAB2062593}' />
+    </window>
+    <window class='worksheet' name='Serving Stats by Playstyle'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'>
+            <card type='columns' />
+          </strip>
+          <strip size='31'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[:Measure Names]</field>
+            <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{FC8CB7A8-87F3-4FDF-A0C4-B7270D79018B}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Winners/Unforced Errors by Playstyle'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'>
+            <card type='columns' />
+          </strip>
+          <strip size='31'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <selection-collection>
+          <node-selection select-tuples='false'>
+            <oriented-node-reference orientation='vertical'>
+              <node-reference>
+                <fields>
+                  <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Surface:nk]</field>
+                </fields>
+                <multibucket>
+                  <bucket>&quot;C&quot;</bucket>
+                </multibucket>
+              </node-reference>
+              <page-reference />
+            </oriented-node-reference>
+          </node-selection>
+        </selection-collection>
+        <highlight>
+          <color-one-way>
+            <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Inferred Playstyle:nk]</field>
+            <field>[sqlproxy.0in0rgk1iv4goo137jypo0t77uk5].[none:Surface:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{6F917628-CF3E-4810-98BD-D78B4567C221}' />
+    </window>
+  </windows>
+</workbook>
